@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Ryan Lim
 
+I'm currently in Renaissance Engineering (Year 2), specializing in Computer Science.
+
+Feel free to check out my pinned projects!
+- (Currently Working On) Rate-Limiter: Learning more about distributed system, load balancing and rate limiting
+- Revibe: Submission for Tiktok Techjam 2025, an algorithm created to distribute rewards more fairly
+- Haze Prediction: Submission for HackX 2025, built a real-time PSI forecasting system
+- SC2002_Project: Java CLI project to learn OOP fundamentals
+- Expense: Expense-splitting mobile application with OCR capabilities
 <!--
 **qorkjnxdk/qorkjnxdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
