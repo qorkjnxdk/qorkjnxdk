@@ -23,6 +23,10 @@ Java CLI project to learn OOP fundamentals
 ### 5. Expense
 Expense-splitting mobile application with OCR capabilities
 - **Tech Stack:** Tesseract OCR, React Native, NodeJS
+
+### 6. Edufinder
+School-Finding web application
+- **Tech Stack:** React, Springboot, Google Maps API, mySQL
 <!--
 **qorkjnxdk/qorkjnxdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
