@@ -106,5 +106,5 @@
 
 ## Currently Working On
 
-<p><input type="checkbox" /> Project about Database Internals</p>
-<p><input type="checkbox" /> Learn about Distributed Systems</p>
+[] Project about Database Internals
+[] Learn about Distributed Systems
