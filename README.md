@@ -106,5 +106,5 @@
 
 ## Currently Working On
 
-[] Project about Database Internals
-[] Learn about Distributed Systems
+- [ ] Project about Database Internals  
+- [ ] Learn about Distributed Systems
