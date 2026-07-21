@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="70" viewBox="0 0 480 70" role="img" aria-labelledby="title description">
+  <title id="title">Hi there, I'm Ryan Lim</title>
+  <desc id="description">An animated typing effect displaying Hi there, I'm Ryan Lim.</desc>
+
+  <defs>
+    <clipPath id="typing-window">
+      <rect x="16" y="10" width="395" height="45">
+        <animate
+          attributeName="width"
+          values="0;0;395;395;0;0"
+          keyTimes="0;0.08;0.58;0.78;0.90;1"
+          dur="7s"
+          repeatCount="indefinite"
+        />
+      </rect>
+    </clipPath>
+  </defs>
+
+  <text
+    x="18"
+    y="45"
+    fill="#0969da"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+    font-size="27"
+    font-weight="600"
+    clip-path="url(#typing-window)"
+  >Hi there, I'm Ryan Lim</text>
+
+  <line x1="405" y1="18" x2="405" y2="49" stroke="#0969da" stroke-width="2">
+    <animate
+      attributeName="x1"
+      values="18;18;405;405;18;18"
+      keyTimes="0;0.08;0.58;0.78;0.90;1"
+      dur="7s"
+      repeatCount="indefinite"
+    />
+    <animate
+      attributeName="x2"
+      values="18;18;405;405;18;18"
+      keyTimes="0;0.08;0.58;0.78;0.90;1"
+      dur="7s"
+      repeatCount="indefinite"
+    />
+    <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" />
+  </line>
+</svg>
