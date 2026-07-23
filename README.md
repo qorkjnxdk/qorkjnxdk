@@ -114,9 +114,9 @@
 
 **Recently played**
 
-1. [Santeria](https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f) — Sublime
-2. [Human](https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb) — The Killers
-3. [I Miss You](https://open.spotify.com/track/1oTo3ijRbaDAtrjJrGAPSw) — blink\-182
-4. [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) — MGMT
-5. [Psycho Killer](https://open.spotify.com/track/7dSCxR4LqkmxoBrq9MzVSD) — Talking Heads
+<table><tr><td><a href="https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"><img src="https://i.scdn.co/image/ab67616d000048518fc4b0dcfb9509553f195c85" width="48" height="48" alt="Album artwork for Santeria" /></a></td><td>1. <a href="https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f">Santeria</a> — Sublime</td></tr></table>
+<table><tr><td><a href="https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb"><img src="https://i.scdn.co/image/ab67616d00004851a43cd43ef4f3b2d5413b17f9" width="48" height="48" alt="Album artwork for Human" /></a></td><td>2. <a href="https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb">Human</a> — The Killers</td></tr></table>
+<table><tr><td><a href="https://open.spotify.com/track/1oTo3ijRbaDAtrjJrGAPSw"><img src="https://i.scdn.co/image/ab67616d000048510a4ae12eb3a9fb7e3815001c" width="48" height="48" alt="Album artwork for I Miss You" /></a></td><td>3. <a href="https://open.spotify.com/track/1oTo3ijRbaDAtrjJrGAPSw">I Miss You</a> — blink-182</td></tr></table>
+<table><tr><td><a href="https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"><img src="https://i.scdn.co/image/ab67616d00004851abdf7749aeb5229dbf305f03" width="48" height="48" alt="Album artwork for Time to Pretend" /></a></td><td>4. <a href="https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW">Time to Pretend</a> — MGMT</td></tr></table>
+<table><tr><td><a href="https://open.spotify.com/track/7dSCxR4LqkmxoBrq9MzVSD"><img src="https://i.scdn.co/image/ab67616d00004851b74dc29f68a36438421a9f1d" width="48" height="48" alt="Album artwork for Psycho Killer" /></a></td><td>5. <a href="https://open.spotify.com/track/7dSCxR4LqkmxoBrq9MzVSD">Psycho Killer</a> — Talking Heads</td></tr></table>
 <!-- SPOTIFY:END -->
