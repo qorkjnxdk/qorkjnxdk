@@ -61,3 +61,49 @@ def test_result_has_exactly_one_trailing_newline() -> None:
     assert not render_spotify_section(None, []).endswith("\n\n")
     assert render_spotify_section(None, []).count("<!-- SPOTIFY:START -->") == 1
     assert render_spotify_section(None, []).count("<!-- SPOTIFY:END -->") == 1
+
+
+def test_renders_linked_current_album_art_at_64_pixels_with_safe_alt_text() -> None:
+    current = Track(
+        name='A <Song> "Live"',
+        artists=("Artist",),
+        spotify_url="https://open.spotify.com/track/current",
+        album_image_url="https://i.scdn.co/image/current",
+    )
+
+    result = render_spotify_section(current, [])
+
+    assert '<a href="https://open.spotify.com/track/current">' in result
+    assert 'src="https://i.scdn.co/image/current"' in result
+    assert 'width="64" height="64"' in result
+    assert 'alt="Album artwork for A &lt;Song&gt; &quot;Live&quot;"' in result
+
+
+def test_renders_recent_album_art_at_48_pixels_and_keeps_text_fallback() -> None:
+    with_art = Track(
+        name="With Art",
+        artists=("Artist",),
+        spotify_url="https://open.spotify.com/track/with-art",
+        album_image_url="https://i.scdn.co/image/recent",
+    )
+    without_art = track("Without Art", "https://open.spotify.com/track/without-art")
+
+    result = render_spotify_section(None, [with_art, without_art])
+
+    assert 'src="https://i.scdn.co/image/recent"' in result
+    assert 'width="48" height="48"' in result
+    assert "2. [Without Art](https://open.spotify.com/track/without-art)" in result
+
+
+def test_does_not_render_unsafe_album_art_url() -> None:
+    current = Track(
+        name="Unsafe",
+        artists=("Artist",),
+        spotify_url="https://open.spotify.com/track/unsafe",
+        album_image_url="http://example.com/image.jpg",
+    )
+
+    result = render_spotify_section(current, [])
+
+    assert "<img" not in result
+    assert "[Unsafe](https://open.spotify.com/track/unsafe)" in result
