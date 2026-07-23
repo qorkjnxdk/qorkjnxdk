@@ -110,13 +110,13 @@
 - [ ] Learn about Distributed Systems
 
 <!-- SPOTIFY:START -->
-## Listening To
+### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"><img src="https://i.scdn.co/image/ab67616d000048518fc4b0dcfb9509553f195c85" width="48" height="48" alt="Album artwork for Santeria" /></a></td><td><a href="https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f">Santeria</a><br>Sublime</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb"><img src="https://i.scdn.co/image/ab67616d00004851a43cd43ef4f3b2d5413b17f9" width="48" height="48" alt="Album artwork for Human" /></a></td><td><a href="https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb">Human</a><br>The Killers</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/1oTo3ijRbaDAtrjJrGAPSw"><img src="https://i.scdn.co/image/ab67616d000048510a4ae12eb3a9fb7e3815001c" width="48" height="48" alt="Album artwork for I Miss You" /></a></td><td><a href="https://open.spotify.com/track/1oTo3ijRbaDAtrjJrGAPSw">I Miss You</a><br>blink-182</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"><img src="https://i.scdn.co/image/ab67616d00004851abdf7749aeb5229dbf305f03" width="48" height="48" alt="Album artwork for Time to Pretend" /></a></td><td><a href="https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW">Time to Pretend</a><br>MGMT</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/7dSCxR4LqkmxoBrq9MzVSD"><img src="https://i.scdn.co/image/ab67616d00004851b74dc29f68a36438421a9f1d" width="48" height="48" alt="Album artwork for Psycho Killer" /></a></td><td><a href="https://open.spotify.com/track/7dSCxR4LqkmxoBrq9MzVSD">Psycho Killer</a><br>Talking Heads</td></tr>
+<tr><td>01</td><td><a href="https://open.spotify.com/track/6LBWQ3wO7QWeKdLqd9iqSj"><img src="https://i.scdn.co/image/ab67616d0000485175be499357ef9b4492a713c3" width="48" height="48" alt="Album artwork for Stacy&#x27;s Mom" /></a></td><td><a href="https://open.spotify.com/track/6LBWQ3wO7QWeKdLqd9iqSj">Stacy&#x27;s Mom</a><br>Bowling For Soup</td></tr>
+<tr><td>02</td><td><a href="https://open.spotify.com/track/35fOoTvFme2VjutXS6G01f"><img src="https://i.scdn.co/image/ab67616d0000485105b9e4f856db958eacdb7cb3" width="48" height="48" alt="Album artwork for Move Along" /></a></td><td><a href="https://open.spotify.com/track/35fOoTvFme2VjutXS6G01f">Move Along</a><br>The All-American Rejects</td></tr>
+<tr><td>03</td><td><a href="https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"><img src="https://i.scdn.co/image/ab67616d000048518fc4b0dcfb9509553f195c85" width="48" height="48" alt="Album artwork for Santeria" /></a></td><td><a href="https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f">Santeria</a><br>Sublime</td></tr>
+<tr><td>04</td><td><a href="https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb"><img src="https://i.scdn.co/image/ab67616d00004851a43cd43ef4f3b2d5413b17f9" width="48" height="48" alt="Album artwork for Human" /></a></td><td><a href="https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb">Human</a><br>The Killers</td></tr>
+<tr><td>05</td><td><a href="https://open.spotify.com/track/1oTo3ijRbaDAtrjJrGAPSw"><img src="https://i.scdn.co/image/ab67616d000048510a4ae12eb3a9fb7e3815001c" width="48" height="48" alt="Album artwork for I Miss You" /></a></td><td><a href="https://open.spotify.com/track/1oTo3ijRbaDAtrjJrGAPSw">I Miss You</a><br>blink-182</td></tr>
 </table>
 <!-- SPOTIFY:END -->
