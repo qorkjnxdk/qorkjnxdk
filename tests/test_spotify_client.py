@@ -48,13 +48,18 @@ def test_parses_current_track(client: SpotifyClient, session: Mock) -> None:
     session.get.return_value = response(200, {
         "currently_playing_type": "track",
         "item": {"name": "Song", "artists": [{"name": "One"}, {"name": "Two"}],
-                 "external_urls": {"spotify": "track-url"}},
+                 "external_urls": {"spotify": "track-url"},
+                 "album": {"images": [
+                     {"url": "large-image", "width": 640, "height": 640},
+                     {"url": "small-image", "width": 64, "height": 64},
+                 ]}},
     })
 
     result = client.get_current_track("access")
 
     assert result is not None
     assert (result.name, result.artists, result.spotify_url) == ("Song", ("One", "Two"), "track-url")
+    assert result.album_image_url == "small-image"
 
 
 @pytest.mark.parametrize("status,payload", [(204, None), (200, {"item": None}), (200, {"currently_playing_type": "episode", "item": {}})])
@@ -67,14 +72,45 @@ def test_current_track_returns_none_for_valid_empty_or_non_track_response(
 
 
 def test_recent_tracks_parse_deduplicate_and_ignore_invalid_items(client: SpotifyClient, session: Mock) -> None:
-    item = {"name": "Song", "type": "track", "artists": [{"name": "Artist"}], "external_urls": {"spotify": "url"}}
+    item = {"name": "Song", "type": "track", "artists": [{"name": "Artist"}],
+            "external_urls": {"spotify": "url"},
+            "album": {"images": [{"url": "recent-image", "width": 300}]}}
     session.get.return_value = response(200, {"items": [{"track": item}, {"track": item}, {"track": {"type": "episode"}}, {}]})
 
     result = client.get_recent_tracks("access")
 
     assert len(result) == 1
     assert result[0].spotify_url == "url"
+    assert result[0].album_image_url == "recent-image"
     assert session.get.call_args.kwargs["params"] == {"limit": 20}
+
+
+@pytest.mark.parametrize(
+    "album",
+    [None, {}, {"images": None}, {"images": [{"url": ""}, "invalid", {}]}],
+)
+def test_missing_or_malformed_album_art_keeps_valid_track_without_image(
+    client: SpotifyClient, session: Mock, album: object
+) -> None:
+    item = {"name": "Song", "type": "track", "artists": [{"name": "Artist"}],
+            "external_urls": {"spotify": "url"}, "album": album}
+    session.get.return_value = response(200, {"items": [{"track": item}]})
+
+    result = client.get_recent_tracks("access")
+
+    assert len(result) == 1
+    assert result[0].album_image_url is None
+
+
+def test_album_art_falls_back_to_last_valid_url_when_dimensions_are_missing(
+    client: SpotifyClient, session: Mock
+) -> None:
+    item = {"name": "Song", "type": "track", "artists": [{"name": "Artist"}],
+            "external_urls": {"spotify": "url"},
+            "album": {"images": [{"url": "large"}, {"url": "small"}]}}
+    session.get.return_value = response(200, {"items": [{"track": item}]})
+
+    assert client.get_recent_tracks("access")[0].album_image_url == "small"
 
 
 def test_missing_optional_track_fields_are_ignored_without_crashing(client: SpotifyClient, session: Mock) -> None:

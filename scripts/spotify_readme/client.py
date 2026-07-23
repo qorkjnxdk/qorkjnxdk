@@ -149,4 +149,32 @@ class SpotifyClient:
         )
         if not artists:
             return None
-        return Track(name=name, artists=artists, spotify_url=spotify_url)
+        return Track(
+            name=name,
+            artists=artists,
+            spotify_url=spotify_url,
+            album_image_url=SpotifyClient._parse_album_image_url(raw),
+        )
+
+    @staticmethod
+    def _parse_album_image_url(raw_track: dict[str, Any]) -> str | None:
+        album = raw_track.get("album")
+        images = album.get("images") if isinstance(album, dict) else None
+        if not isinstance(images, list):
+            return None
+
+        valid_images: list[tuple[str, int | None]] = []
+        for image in images:
+            if not isinstance(image, dict):
+                continue
+            url = image.get("url")
+            width = image.get("width")
+            if not isinstance(url, str) or not url:
+                continue
+            valid_width = width if isinstance(width, int) and not isinstance(width, bool) else None
+            valid_images.append((url, valid_width))
+
+        sized = [(url, width) for url, width in valid_images if width is not None and width >= 64]
+        if sized:
+            return min(sized, key=lambda image: image[1])[0]
+        return valid_images[-1][0] if valid_images else None
