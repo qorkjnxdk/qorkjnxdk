@@ -108,3 +108,9 @@
 
 <p><input type="checkbox" /> Project about Database Internals</p>
 <p><input type="checkbox" /> Learn about Distributed Systems</p>
+
+<!-- SPOTIFY:START -->
+### 🎧 Spotify
+
+No recent Spotify activity available.
+<!-- SPOTIFY:END -->
