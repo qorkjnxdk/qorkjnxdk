@@ -108,3 +108,9 @@
 
 - [ ] Project about Database Internals  
 - [ ] Learn about Distributed Systems
+
+<!-- SPOTIFY:START -->
+### 🎧 Spotify
+
+No recent Spotify activity available.
+<!-- SPOTIFY:END -->

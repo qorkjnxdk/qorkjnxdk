@@ -108,3 +108,28 @@
 
 - [ ] Project about Database Internals  
 - [ ] Learn about Distributed Systems
+
+<!-- SPOTIFY:START -->
+### 🎧 Spotify
+
+No recent Spotify activity available.
+<!-- SPOTIFY:END -->
+
+<details>
+<summary>Spotify activity setup</summary>
+
+1. Create an application in the Spotify Developer Dashboard and register a local redirect URI, such as `http://127.0.0.1:8080/callback`.
+2. Set `SPOTIFY_CLIENT_ID` and `SPOTIFY_CLIENT_SECRET` in your local shell. Do not save real values in this repository.
+3. Run the one-time authorization helper with the same registered URI:
+
+   ```bash
+   python -m scripts.spotify_readme.authorize --redirect-uri http://127.0.0.1:8080/callback
+   ```
+
+4. Open the printed URL. The helper requests only `user-read-currently-playing` and `user-read-recently-played`. After approval, paste the full callback URL into the terminal.
+5. Add the resulting refresh token and the two application credentials as GitHub Actions repository secrets named `SPOTIFY_REFRESH_TOKEN`, `SPOTIFY_CLIENT_ID`, and `SPOTIFY_CLIENT_SECRET`.
+6. Manually run **Update Spotify activity** from the repository’s Actions tab, then verify that only the content between the Spotify markers changed.
+
+The hourly workflow is non-interactive. A refresh token can expire or be revoked; if authentication later fails, repeat the local authorization process and replace the repository secret.
+
+</details>
