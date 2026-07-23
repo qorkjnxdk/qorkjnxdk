@@ -110,7 +110,7 @@
 - [ ] Learn about Distributed Systems
 
 <!-- SPOTIFY:START -->
-### Listening To
+## Listening To
 
 <table>
 <tr><td>01</td><td><a href="https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"><img src="https://i.scdn.co/image/ab67616d000048518fc4b0dcfb9509553f195c85" width="48" height="48" alt="Album artwork for Santeria" /></a></td><td><a href="https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f">Santeria</a><br>Sublime</td></tr>
