@@ -112,5 +112,11 @@
 <!-- SPOTIFY:START -->
 ### 🎧 Spotify
 
-No recent Spotify activity available.
+**Recently played**
+
+1. [Santeria](https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f) — Sublime
+2. [Human](https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb) — The Killers
+3. [I Miss You](https://open.spotify.com/track/1oTo3ijRbaDAtrjJrGAPSw) — blink\-182
+4. [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) — MGMT
+5. [Psycho Killer](https://open.spotify.com/track/7dSCxR4LqkmxoBrq9MzVSD) — Talking Heads
 <!-- SPOTIFY:END -->
