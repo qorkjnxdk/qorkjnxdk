@@ -32,7 +32,7 @@
   <tr>
     <td width="50%" valign="top">
       <p style="margin: 0 0 4px; font-size: 1.15em; font-weight: 600;"><a href="https://github.com/MT7654/Our-Grandparents-Shoes">ConverseBetter</a></p>
-      <p>Conversation-training platform that helps youth volunteers practise empathetic communication with elderly seniors.></p>
+      <p>Conversation-training platform that helps youth volunteers practise empathetic communication with elderly seniors.</p>
     </td>
     <td width="50%" valign="top">
       <p style="margin: 0 0 4px; font-size: 1.15em; font-weight: 600;"><a href="https://github.com/qorkjnxdk/Edufinder">EduFinder</a></p>
