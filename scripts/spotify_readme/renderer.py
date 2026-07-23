@@ -28,33 +28,47 @@ def _safe_artwork_url(track: Track) -> str | None:
     return track.album_image_url
 
 
-def _artwork_row(track: Track, size: int, prefix: str = "") -> str | None:
+def _artwork_cell(track: Track, size: int) -> str:
     artwork_url = _safe_artwork_url(track)
     if artwork_url is None:
-        return None
+        return "<td></td>"
     track_url = html.escape(track.spotify_url, quote=True)
     image_url = html.escape(artwork_url, quote=True)
     alt = html.escape(f"Album artwork for {track.name}", quote=True)
-    name = html.escape(track.name)
-    artists = ", ".join(html.escape(artist) for artist in track.artists)
     return (
-        '<table><tr>'
         f'<td><a href="{track_url}"><img src="{image_url}" width="{size}" height="{size}" '
         f'alt="{alt}" /></a></td>'
-        f'<td>{prefix}<a href="{track_url}">{name}</a> — {artists}</td>'
-        '</tr></table>'
     )
+
+
+def _track_text_cell(track: Track) -> str:
+    track_url = html.escape(track.spotify_url, quote=True)
+    name = html.escape(track.name)
+    artists = ", ".join(html.escape(artist) for artist in track.artists)
+    return f'<td><a href="{track_url}">{name}</a><br>{artists}</td>'
+
+
+def _ledger_row(track: Track, size: int, index: int | None) -> str:
+    index_cell = f"<td>{index:02d}</td>" if index is not None else ""
+    return (
+        "<tr>"
+        f"{index_cell}{_artwork_cell(track, size)}{_track_text_cell(track)}"
+        "</tr>"
+    )
+
+
+def _ledger(rows: list[str]) -> str:
+    return "<table>\n" + "\n".join(rows) + "\n</table>"
 
 
 def render_spotify_section(
     current_track: Track | None,
     recent_tracks: list[Track],
 ) -> str:
-    lines = [START_MARKER, "### 🎧 Spotify", ""]
+    lines = [START_MARKER, "### Listening To", ""]
 
     if current_track is not None:
-        current_row = _artwork_row(current_track, 64)
-        lines.extend(["**Now playing**", "", current_row or _track_line(current_track)])
+        lines.append(_ledger([_ledger_row(current_track, 64, None)]))
     else:
         unique_tracks: list[Track] = []
         seen_urls: set[str] = set()
@@ -67,10 +81,11 @@ def render_spotify_section(
                 break
 
         if unique_tracks:
-            lines.extend(["**Recently played**", ""])
-            for index, track in enumerate(unique_tracks, start=1):
-                artwork_row = _artwork_row(track, 48, prefix=f"{index}. ")
-                lines.append(artwork_row or f"{index}. {_track_line(track)}")
+            rows = [
+                _ledger_row(track, 48, index)
+                for index, track in enumerate(unique_tracks, start=1)
+            ]
+            lines.append(_ledger(rows))
         else:
             lines.append("No recent Spotify activity available.")
 

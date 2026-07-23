@@ -9,8 +9,12 @@ def track(name: str, url: str = "https://open.spotify.com/track/1", *artists: st
 def test_renders_current_track_in_preference_to_recent_tracks() -> None:
     result = render_spotify_section(track("Now"), [track("Old")])
 
-    assert "**Now playing**" in result
-    assert "[Now](https://open.spotify.com/track/1) — Artist" in result
+    assert "### Listening To" in result
+    assert "Now playing" not in result
+    assert "Recently played" not in result
+    assert '<a href="https://open.spotify.com/track/1">Now</a><br>Artist' in result
+    assert result.count("<table>") == 1
+    assert ">01<" not in result
     assert "Old" not in result
 
 
@@ -20,8 +24,11 @@ def test_renders_recent_tracks_with_multiple_artists() -> None:
         [track("Duet", "https://open.spotify.com/track/2", "One", "Two")],
     )
 
-    assert "**Recently played**" in result
-    assert "1. [Duet](https://open.spotify.com/track/2) — One, Two" in result
+    assert "### Listening To" in result
+    assert "Recently played" not in result
+    assert ">01<" in result
+    assert '<a href="https://open.spotify.com/track/2">Duet</a><br>One, Two' in result
+    assert result.count("<table>") == 1
 
 
 def test_escapes_markdown_sensitive_track_and_artist_text() -> None:
@@ -30,8 +37,8 @@ def test_escapes_markdown_sensitive_track_and_artist_text() -> None:
         [],
     )
 
-    assert r"A \[track\] \*name\*" in result
-    assert r"An\_Artist" in result
+    assert "A [track] *name*" in result
+    assert "An_Artist" in result
     assert escape_markdown(r"a\b") == r"a\\b"
 
 
@@ -44,13 +51,15 @@ def test_deduplicates_recent_tracks_and_limits_to_five() -> None:
     assert "Duplicate" not in result
     assert "Track 5" in result
     assert "Track 6" not in result
-    assert result.count("\n1. ") == 1
-    assert result.count("\n5. ") == 1
+    assert result.count(">01<") == 1
+    assert result.count(">05<") == 1
+    assert result.count("<table>") == 1
 
 
 def test_renders_empty_state() -> None:
     result = render_spotify_section(None, [])
 
+    assert "### Listening To" in result
     assert "No recent Spotify activity available." in result
     assert "Now playing" not in result
     assert "Recently played" not in result
@@ -77,6 +86,8 @@ def test_renders_linked_current_album_art_at_64_pixels_with_safe_alt_text() -> N
     assert 'src="https://i.scdn.co/image/current"' in result
     assert 'width="64" height="64"' in result
     assert 'alt="Album artwork for A &lt;Song&gt; &quot;Live&quot;"' in result
+    assert result.count("<table>") == 1
+    assert ">01<" not in result
 
 
 def test_renders_recent_album_art_at_48_pixels_and_keeps_text_fallback() -> None:
@@ -92,7 +103,9 @@ def test_renders_recent_album_art_at_48_pixels_and_keeps_text_fallback() -> None
 
     assert 'src="https://i.scdn.co/image/recent"' in result
     assert 'width="48" height="48"' in result
-    assert "2. [Without Art](https://open.spotify.com/track/without-art)" in result
+    assert ">01<" in result and ">02<" in result
+    assert '<td></td><td><a href="https://open.spotify.com/track/without-art">Without Art</a><br>Artist</td>' in result
+    assert result.count("<table>") == 1
 
 
 def test_does_not_render_unsafe_album_art_url() -> None:
@@ -106,4 +119,13 @@ def test_does_not_render_unsafe_album_art_url() -> None:
     result = render_spotify_section(current, [])
 
     assert "<img" not in result
-    assert "[Unsafe](https://open.spotify.com/track/unsafe)" in result
+    assert '<td></td><td><a href="https://open.spotify.com/track/unsafe">Unsafe</a><br>Artist</td>' in result
+
+
+def test_uses_listening_to_as_the_only_visible_heading() -> None:
+    result = render_spotify_section(None, [track("Song")])
+
+    assert result.count("### Listening To") == 1
+    assert "### 🎧 Spotify" not in result
+    assert "**Now playing**" not in result
+    assert "**Recently played**" not in result
