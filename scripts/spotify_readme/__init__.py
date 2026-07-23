@@ -1,0 +1,1 @@
+"""Spotify profile README updater."""
