@@ -110,7 +110,7 @@
 - [ ] Learn about Distributed Systems
 
 <!-- SPOTIFY:START -->
-### Listening To
+## Listening To
 
 <table>
 <tr><td>01</td><td><a href="https://open.spotify.com/track/2gSVKxPDww9Eep5rdvtdem"><img src="https://i.scdn.co/image/ab67616d000048514a31b146c7cf07705d912efe" width="48" height="48" alt="Album artwork for My Way" /></a></td><td><a href="https://open.spotify.com/track/2gSVKxPDww9Eep5rdvtdem">My Way</a><br>Limp Bizkit</td></tr>
