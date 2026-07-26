@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/67WTwafOMgegV6ABnBQxcE"><img src="https://i.scdn.co/image/ab67616d00004851a036e1724bc7f2bab15cfda8" width="48" height="48" alt="Album artwork for Some Nights" /></a></td><td><a href="https://open.spotify.com/track/67WTwafOMgegV6ABnBQxcE">Some Nights</a><br>fun.</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/62yJjFtgkhUrXktIoSjgP2"><img src="https://i.scdn.co/image/ab67616d00004851407bd04707c463bbb3410737" width="48" height="48" alt="Album artwork for Radioactive" /></a></td><td><a href="https://open.spotify.com/track/62yJjFtgkhUrXktIoSjgP2">Radioactive</a><br>Imagine Dragons</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/6liaHE9iHh23PLVvw7lK8V"><img src="https://i.scdn.co/image/ab67616d00004851fb304ec81a4ab3a5b5b7eea4" width="48" height="48" alt="Album artwork for Closing Time" /></a></td><td><a href="https://open.spotify.com/track/6liaHE9iHh23PLVvw7lK8V">Closing Time</a><br>Semisonic</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns"><img src="https://i.scdn.co/image/ab67616d00004851de09e02aa7febf30b7c02d82" width="48" height="48" alt="Album artwork for Clocks" /></a></td><td><a href="https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns">Clocks</a><br>Coldplay</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm"><img src="https://i.scdn.co/image/ab67616d0000485108a1b1e0674086d3f1995e1b" width="48" height="48" alt="Album artwork for Wake Me up When September Ends" /></a></td><td><a href="https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm">Wake Me up When September Ends</a><br>Green Day</td></tr>
+<tr><td><a href="https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"><img src="https://i.scdn.co/image/ab67616d000048516da502e35a7a3e48de2b0f74" width="64" height="64" alt="Album artwork for All The Small Things" /></a></td><td><a href="https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU">All The Small Things</a><br>blink-182</td></tr>
 </table>
 <!-- SPOTIFY:END -->
