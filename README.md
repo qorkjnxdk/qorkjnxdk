@@ -113,6 +113,10 @@
 ### Listening To
 
 <table>
-<tr><td><a href="https://open.spotify.com/track/6lFUdRItQEsEuD7dSINL47"><img src="https://i.scdn.co/image/ab67616d0000485190b88187a9831d91f2438927" width="64" height="64" alt="Album artwork for Follow You" /></a></td><td><a href="https://open.spotify.com/track/6lFUdRItQEsEuD7dSINL47">Follow You</a><br>Bring Me The Horizon</td></tr>
+<tr><td>01</td><td><a href="https://open.spotify.com/track/6aCBjSb87RizdH8lVBIRW7"><img src="https://i.scdn.co/image/ab67616d000048518be9eeb8f19696ef2fd3b6b4" width="48" height="48" alt="Album artwork for Good Things Go" /></a></td><td><a href="https://open.spotify.com/track/6aCBjSb87RizdH8lVBIRW7">Good Things Go</a><br>Linkin Park</td></tr>
+<tr><td>02</td><td><a href="https://open.spotify.com/track/6D9mr7E56fEFk9GiDFcDKF"><img src="https://i.scdn.co/image/ab67616d000048516dfbd2654e5c961d1126ad9c" width="48" height="48" alt="Album artwork for On the Run" /></a></td><td><a href="https://open.spotify.com/track/6D9mr7E56fEFk9GiDFcDKF">On the Run</a><br>Glass Animals</td></tr>
+<tr><td>03</td><td><a href="https://open.spotify.com/track/55OQnFxrtwV4hSBAbeqId7"><img src="https://i.scdn.co/image/ab67616d00004851db8ea480803cf14966712c0f" width="48" height="48" alt="Album artwork for Freaks (feat. Travis Barker)" /></a></td><td><a href="https://open.spotify.com/track/55OQnFxrtwV4hSBAbeqId7">Freaks (feat. Travis Barker)</a><br>Surf Curse, Travis Barker</td></tr>
+<tr><td>04</td><td><a href="https://open.spotify.com/track/18yt8PSMtK1Yck29ZtAOB0"><img src="https://i.scdn.co/image/ab67616d00004851b0c0ef1157d2b44f4761c086" width="48" height="48" alt="Album artwork for I&#x27;m Not Okay (I Promise) - 2025 Mix" /></a></td><td><a href="https://open.spotify.com/track/18yt8PSMtK1Yck29ZtAOB0">I&#x27;m Not Okay (I Promise) - 2025 Mix</a><br>My Chemical Romance</td></tr>
+<tr><td>05</td><td><a href="https://open.spotify.com/track/3gy21TwRSP40aUMwcY7Rtq"><img src="https://i.scdn.co/image/ab67616d00004851cc94dd4730132ccfbd617bf9" width="48" height="48" alt="Album artwork for Navigating" /></a></td><td><a href="https://open.spotify.com/track/3gy21TwRSP40aUMwcY7Rtq">Navigating</a><br>Twenty One Pilots</td></tr>
 </table>
 <!-- SPOTIFY:END -->
