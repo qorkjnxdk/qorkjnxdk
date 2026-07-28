@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/2P61EK6DMGyVyssLWS4fKy"><img src="https://i.scdn.co/image/ab67616d000048512df0d98a423025032d0db1f7" width="48" height="48" alt="Album artwork for Lane Boy" /></a></td><td><a href="https://open.spotify.com/track/2P61EK6DMGyVyssLWS4fKy">Lane Boy</a><br>Twenty One Pilots</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4"><img src="https://i.scdn.co/image/ab67616d000048512df0d98a423025032d0db1f7" width="48" height="48" alt="Album artwork for Tear in My Heart" /></a></td><td><a href="https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4">Tear in My Heart</a><br>Twenty One Pilots</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW"><img src="https://i.scdn.co/image/ab67616d000048512df0d98a423025032d0db1f7" width="48" height="48" alt="Album artwork for Ride" /></a></td><td><a href="https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW">Ride</a><br>Twenty One Pilots</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn"><img src="https://i.scdn.co/image/ab67616d000048512df0d98a423025032d0db1f7" width="48" height="48" alt="Album artwork for Stressed Out" /></a></td><td><a href="https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn">Stressed Out</a><br>Twenty One Pilots</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/7i9763l5SSfOnqZ35VOcfy"><img src="https://i.scdn.co/image/ab67616d000048512df0d98a423025032d0db1f7" width="48" height="48" alt="Album artwork for Heavydirtysoul" /></a></td><td><a href="https://open.spotify.com/track/7i9763l5SSfOnqZ35VOcfy">Heavydirtysoul</a><br>Twenty One Pilots</td></tr>
+<tr><td><a href="https://open.spotify.com/track/6lFUdRItQEsEuD7dSINL47"><img src="https://i.scdn.co/image/ab67616d0000485190b88187a9831d91f2438927" width="64" height="64" alt="Album artwork for Follow You" /></a></td><td><a href="https://open.spotify.com/track/6lFUdRItQEsEuD7dSINL47">Follow You</a><br>Bring Me The Horizon</td></tr>
 </table>
 <!-- SPOTIFY:END -->
