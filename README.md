@@ -113,6 +113,10 @@
 ### Listening To
 
 <table>
-<tr><td><a href="https://open.spotify.com/track/5aEqcblO0Z6JloFJXtxyhe"><img src="https://i.scdn.co/image/ab67616d0000485178c11c1af300d7dc95191066" width="64" height="64" alt="Album artwork for Everytime We Touch" /></a></td><td><a href="https://open.spotify.com/track/5aEqcblO0Z6JloFJXtxyhe">Everytime We Touch</a><br>Cascada</td></tr>
+<tr><td>01</td><td><a href="https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq"><img src="https://i.scdn.co/image/ab67616d000048514a6c0376235e5aa44e59d2c2" width="48" height="48" alt="Album artwork for Everybody Talks" /></a></td><td><a href="https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq">Everybody Talks</a><br>Neon Trees</td></tr>
+<tr><td>02</td><td><a href="https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux"><img src="https://i.scdn.co/image/ab67616d00004851f9f27162ab1ed45b8d7a7e98" width="48" height="48" alt="Album artwork for Umbrella" /></a></td><td><a href="https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux">Umbrella</a><br>Rihanna, JAŸ-Z</td></tr>
+<tr><td>03</td><td><a href="https://open.spotify.com/track/5yJaXWIErrrsjQ3J0eR5aK"><img src="https://i.scdn.co/image/ab67616d00004851b4916183f769aca218acb85f" width="48" height="48" alt="Album artwork for The Night We Met" /></a></td><td><a href="https://open.spotify.com/track/5yJaXWIErrrsjQ3J0eR5aK">The Night We Met</a><br>Lord Huron</td></tr>
+<tr><td>04</td><td><a href="https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"><img src="https://i.scdn.co/image/ab67616d000048519164bafe9aaa168d93f4816a" width="48" height="48" alt="Album artwork for Yellow" /></a></td><td><a href="https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg">Yellow</a><br>Coldplay</td></tr>
+<tr><td>05</td><td><a href="https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"><img src="https://i.scdn.co/image/ab67616d000048518265a736a1eb838ad5a0b921" width="48" height="48" alt="Album artwork for Sweater Weather" /></a></td><td><a href="https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6">Sweater Weather</a><br>The Neighbourhood</td></tr>
 </table>
 <!-- SPOTIFY:END -->
