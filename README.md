@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/5rLi8B8qgk6qThwRnKHW2P"><img src="https://i.scdn.co/image/ab67616d00004851d8f40ad88ed77a939b716d19" width="48" height="48" alt="Album artwork for The Ballad of Mona Lisa" /></a></td><td><a href="https://open.spotify.com/track/5rLi8B8qgk6qThwRnKHW2P">The Ballad of Mona Lisa</a><br>Panic! At The Disco</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/773xZHHSHJvC1z3AAtWgH6"><img src="https://i.scdn.co/image/ab67616d000048516caad685af37c08063be928d" width="48" height="48" alt="Album artwork for Ode to Sleep" /></a></td><td><a href="https://open.spotify.com/track/773xZHHSHJvC1z3AAtWgH6">Ode to Sleep</a><br>Twenty One Pilots</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a"><img src="https://i.scdn.co/image/ab67616d00004851e01d7d558032457b0e4883f6" width="48" height="48" alt="Album artwork for Brick by Boring Brick" /></a></td><td><a href="https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a">Brick by Boring Brick</a><br>Paramore</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7"><img src="https://i.scdn.co/image/ab67616d000048515149c948fde506624246a684" width="48" height="48" alt="Album artwork for Kingslayer (feat. BABYMETAL)" /></a></td><td><a href="https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7">Kingslayer (feat. BABYMETAL)</a><br>Bring Me The Horizon, BABYMETAL</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/4fGIqy3bvjX0jz1SJHqjjo"><img src="https://i.scdn.co/image/ab67616d00004851cab7ae4868e9f9ce6bdfdf43" width="48" height="48" alt="Album artwork for It&#x27;s Not a Fashion Statement, It&#x27;s a Deathwish" /></a></td><td><a href="https://open.spotify.com/track/4fGIqy3bvjX0jz1SJHqjjo">It&#x27;s Not a Fashion Statement, It&#x27;s a Deathwish</a><br>My Chemical Romance</td></tr>
+<tr><td><a href="https://open.spotify.com/track/5aEqcblO0Z6JloFJXtxyhe"><img src="https://i.scdn.co/image/ab67616d0000485178c11c1af300d7dc95191066" width="64" height="64" alt="Album artwork for Everytime We Touch" /></a></td><td><a href="https://open.spotify.com/track/5aEqcblO0Z6JloFJXtxyhe">Everytime We Touch</a><br>Cascada</td></tr>
 </table>
 <!-- SPOTIFY:END -->
