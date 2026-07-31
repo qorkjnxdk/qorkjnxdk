@@ -113,6 +113,10 @@
 ### Listening To
 
 <table>
-<tr><td><a href="https://open.spotify.com/track/0rUNZQuYQvOz6A6zwyT6tM"><img src="https://i.scdn.co/image/ab67616d00004851663b6ce496144fa5c3670ac0" width="64" height="64" alt="Album artwork for This Is How I Disappear" /></a></td><td><a href="https://open.spotify.com/track/0rUNZQuYQvOz6A6zwyT6tM">This Is How I Disappear</a><br>My Chemical Romance</td></tr>
+<tr><td>01</td><td><a href="https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"><img src="https://i.scdn.co/image/ab67616d00004851a520a167a62d5548cdb53101" width="48" height="48" alt="Album artwork for I Wanna Dance with Somebody (Who Loves Me)" /></a></td><td><a href="https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj">I Wanna Dance with Somebody (Who Loves Me)</a><br>Whitney Houston</td></tr>
+<tr><td>02</td><td><a href="https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm"><img src="https://i.scdn.co/image/ab67616d000048518bd8adbdc4727d9080240905" width="48" height="48" alt="Album artwork for Come On Eileen" /></a></td><td><a href="https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm">Come On Eileen</a><br>Dexys Midnight Runners</td></tr>
+<tr><td>03</td><td><a href="https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3"><img src="https://i.scdn.co/image/ab67616d00004851183730e8038fa632b2c227da" width="48" height="48" alt="Album artwork for Suddenly I See" /></a></td><td><a href="https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3">Suddenly I See</a><br>KT Tunstall</td></tr>
+<tr><td>04</td><td><a href="https://open.spotify.com/track/7h2EZbGSzzIGgAFzJXHz99"><img src="https://i.scdn.co/image/ab67616d00004851bafcef0262b82dec233717e2" width="48" height="48" alt="Album artwork for Like A Villain" /></a></td><td><a href="https://open.spotify.com/track/7h2EZbGSzzIGgAFzJXHz99">Like A Villain</a><br>Bad Omens</td></tr>
+<tr><td>05</td><td><a href="https://open.spotify.com/track/4IDfVjI1TlB1UwlC01T4Bm"><img src="https://i.scdn.co/image/ab67616d00004851b9abbedc516dd297039977bd" width="48" height="48" alt="Album artwork for Decode - Twilight Soundtrack Version" /></a></td><td><a href="https://open.spotify.com/track/4IDfVjI1TlB1UwlC01T4Bm">Decode - Twilight Soundtrack Version</a><br>Paramore</td></tr>
 </table>
 <!-- SPOTIFY:END -->
