@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/2fmCA13dwQQOGBIbIOWRiJ"><img src="https://i.scdn.co/image/ab67616d0000485123152d9337d6c57b116ed13a" width="48" height="48" alt="Album artwork for LA Devotee" /></a></td><td><a href="https://open.spotify.com/track/2fmCA13dwQQOGBIbIOWRiJ">LA Devotee</a><br>Panic! At The Disco</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah"><img src="https://i.scdn.co/image/ab67616d00004851de09e02aa7febf30b7c02d82" width="48" height="48" alt="Album artwork for In My Place" /></a></td><td><a href="https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah">In My Place</a><br>Coldplay</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"><img src="https://i.scdn.co/image/ab67616d00004851eda9478c39a21e1cdc6609ca" width="48" height="48" alt="Album artwork for Iris" /></a></td><td><a href="https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs">Iris</a><br>The Goo Goo Dolls</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6"><img src="https://i.scdn.co/image/ab67616d000048515da2756220da9b6f17924f8f" width="48" height="48" alt="Album artwork for Chasing Cars" /></a></td><td><a href="https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6">Chasing Cars</a><br>Snow Patrol</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"><img src="https://i.scdn.co/image/ab67616d0000485185e5dcc05cc216a10f141480" width="48" height="48" alt="Album artwork for Wonderwall - Remastered" /></a></td><td><a href="https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa">Wonderwall - Remastered</a><br>Oasis</td></tr>
+<tr><td><a href="https://open.spotify.com/track/4aKOM2dmLTB5U5qsFhb8u4"><img src="https://i.scdn.co/image/ab67616d000048516c5c3342ee0a055acd9b820f" width="64" height="64" alt="Album artwork for Someone Like You" /></a></td><td><a href="https://open.spotify.com/track/4aKOM2dmLTB5U5qsFhb8u4">Someone Like You</a><br>Ice Nine Kills</td></tr>
 </table>
 <!-- SPOTIFY:END -->
