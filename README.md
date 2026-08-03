@@ -113,6 +113,10 @@
 ### Listening To
 
 <table>
-<tr><td><a href="https://open.spotify.com/track/4aKOM2dmLTB5U5qsFhb8u4"><img src="https://i.scdn.co/image/ab67616d000048516c5c3342ee0a055acd9b820f" width="64" height="64" alt="Album artwork for Someone Like You" /></a></td><td><a href="https://open.spotify.com/track/4aKOM2dmLTB5U5qsFhb8u4">Someone Like You</a><br>Ice Nine Kills</td></tr>
+<tr><td>01</td><td><a href="https://open.spotify.com/track/0ZeKQudydO2uQJpfr6gNC8"><img src="https://i.scdn.co/image/ab67616d00004851dcca264f538d015a1c9733a5" width="48" height="48" alt="Album artwork for Tainted Love" /></a></td><td><a href="https://open.spotify.com/track/0ZeKQudydO2uQJpfr6gNC8">Tainted Love</a><br>Marilyn Manson</td></tr>
+<tr><td>02</td><td><a href="https://open.spotify.com/track/55O7Ktom72Egyx3ZMnVfw7"><img src="https://i.scdn.co/image/ab67616d00004851472059447b968880af6073e4" width="48" height="48" alt="Album artwork for Shape of My Heart" /></a></td><td><a href="https://open.spotify.com/track/55O7Ktom72Egyx3ZMnVfw7">Shape of My Heart</a><br>Theory of a Deadman</td></tr>
+<tr><td>03</td><td><a href="https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"><img src="https://i.scdn.co/image/ab67616d000048513aa5698b9f13447a6ccc0dcc" width="48" height="48" alt="Album artwork for Smooth Criminal" /></a></td><td><a href="https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy">Smooth Criminal</a><br>Alien Ant Farm</td></tr>
+<tr><td>04</td><td><a href="https://open.spotify.com/track/2302lUwfZ4S4dVyPOCDFnQ"><img src="https://i.scdn.co/image/ab67616d0000485154585a427218bf9bddbd6a3f" width="48" height="48" alt="Album artwork for Sweet Dreams (Are Made Of This)" /></a></td><td><a href="https://open.spotify.com/track/2302lUwfZ4S4dVyPOCDFnQ">Sweet Dreams (Are Made Of This)</a><br>Marilyn Manson</td></tr>
+<tr><td>05</td><td><a href="https://open.spotify.com/track/0ZVBS0Oe0oAdCyVr4Gfhhl"><img src="https://i.scdn.co/image/ab67616d00004851c6852b5cad28e9d18501221b" width="48" height="48" alt="Album artwork for Survivor" /></a></td><td><a href="https://open.spotify.com/track/0ZVBS0Oe0oAdCyVr4Gfhhl">Survivor</a><br>Die Happy</td></tr>
 </table>
 <!-- SPOTIFY:END -->
