@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/4xdHI4eFNst0vTZuuKrWjr"><img src="https://i.scdn.co/image/ab67616d000048515124ed45a94033830b320500" width="48" height="48" alt="Album artwork for Black Hole Sun" /></a></td><td><a href="https://open.spotify.com/track/4xdHI4eFNst0vTZuuKrWjr">Black Hole Sun</a><br>Soundgarden</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/5gRcv46AMTrosmTOqrOV3Q"><img src="https://i.scdn.co/image/ab67616d00004851c4f52ef8782f0e8ede4c1aaf" width="48" height="48" alt="Album artwork for Dumb" /></a></td><td><a href="https://open.spotify.com/track/5gRcv46AMTrosmTOqrOV3Q">Dumb</a><br>Nirvana</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/0MSC5BYWcNhcBNNYORXZyj"><img src="https://i.scdn.co/image/ab67616d00004851db91b52ea052f3a6ad7bf8b1" width="48" height="48" alt="Album artwork for Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off" /></a></td><td><a href="https://open.spotify.com/track/0MSC5BYWcNhcBNNYORXZyj">Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off</a><br>Panic! At The Disco</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl"><img src="https://i.scdn.co/image/ab67616d00004851483a98632e23f6d2623ab75c" width="48" height="48" alt="Album artwork for My Songs Know What You Did In The Dark (Light Em Up)" /></a></td><td><a href="https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl">My Songs Know What You Did In The Dark (Light Em Up)</a><br>Fall Out Boy</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/3l9CW99AHtExIRV4hW2N5m"><img src="https://i.scdn.co/image/ab67616d0000485169966efa45b125ed6711b43c" width="48" height="48" alt="Album artwork for Misery Business" /></a></td><td><a href="https://open.spotify.com/track/3l9CW99AHtExIRV4hW2N5m">Misery Business</a><br>Paramore</td></tr>
+<tr><td><a href="https://open.spotify.com/track/4Oyl6oYSNeeZZP0OAxPVaU"><img src="https://i.scdn.co/image/ab67616d000048512df0d98a423025032d0db1f7" width="64" height="64" alt="Album artwork for Message Man" /></a></td><td><a href="https://open.spotify.com/track/4Oyl6oYSNeeZZP0OAxPVaU">Message Man</a><br>Twenty One Pilots</td></tr>
 </table>
 <!-- SPOTIFY:END -->
