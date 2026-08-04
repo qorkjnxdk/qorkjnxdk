@@ -113,6 +113,10 @@
 ### Listening To
 
 <table>
-<tr><td><a href="https://open.spotify.com/track/4Oyl6oYSNeeZZP0OAxPVaU"><img src="https://i.scdn.co/image/ab67616d000048512df0d98a423025032d0db1f7" width="64" height="64" alt="Album artwork for Message Man" /></a></td><td><a href="https://open.spotify.com/track/4Oyl6oYSNeeZZP0OAxPVaU">Message Man</a><br>Twenty One Pilots</td></tr>
+<tr><td>01</td><td><a href="https://open.spotify.com/track/0sXvjZV7p4uvyPN4uQo3FH"><img src="https://i.scdn.co/image/ab67616d00004851d1d301e737da4324479c6660" width="48" height="48" alt="Album artwork for Neon Gravestones" /></a></td><td><a href="https://open.spotify.com/track/0sXvjZV7p4uvyPN4uQo3FH">Neon Gravestones</a><br>Twenty One Pilots</td></tr>
+<tr><td>02</td><td><a href="https://open.spotify.com/track/5G6Gt9RtNaeIE418pd4yre"><img src="https://i.scdn.co/image/ab67616d00004851d1d301e737da4324479c6660" width="48" height="48" alt="Album artwork for Smithereens" /></a></td><td><a href="https://open.spotify.com/track/5G6Gt9RtNaeIE418pd4yre">Smithereens</a><br>Twenty One Pilots</td></tr>
+<tr><td>03</td><td><a href="https://open.spotify.com/track/23OXdR7YuUBVWh5hSnYJau"><img src="https://i.scdn.co/image/ab67616d00004851d1d301e737da4324479c6660" width="48" height="48" alt="Album artwork for Chlorine" /></a></td><td><a href="https://open.spotify.com/track/23OXdR7YuUBVWh5hSnYJau">Chlorine</a><br>Twenty One Pilots</td></tr>
+<tr><td>04</td><td><a href="https://open.spotify.com/track/5HeKOKc4phmLn8e4I7EkzD"><img src="https://i.scdn.co/image/ab67616d00004851d1d301e737da4324479c6660" width="48" height="48" alt="Album artwork for My Blood" /></a></td><td><a href="https://open.spotify.com/track/5HeKOKc4phmLn8e4I7EkzD">My Blood</a><br>Twenty One Pilots</td></tr>
+<tr><td>05</td><td><a href="https://open.spotify.com/track/01vv2AjxgP4uUyb8waYO5Y"><img src="https://i.scdn.co/image/ab67616d00004851d1d301e737da4324479c6660" width="48" height="48" alt="Album artwork for Morph" /></a></td><td><a href="https://open.spotify.com/track/01vv2AjxgP4uUyb8waYO5Y">Morph</a><br>Twenty One Pilots</td></tr>
 </table>
 <!-- SPOTIFY:END -->
