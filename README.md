@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT"><img src="https://i.scdn.co/image/ab67616d00004851890ce61533a89e00ce593fcb" width="48" height="48" alt="Album artwork for You&#x27;re Gonna Go Far, Kid" /></a></td><td><a href="https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT">You&#x27;re Gonna Go Far, Kid</a><br>The Offspring</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/7I3skNaQdvZSS7zXY2VHId"><img src="https://i.scdn.co/image/ab67616d00004851d1d301e737da4324479c6660" width="48" height="48" alt="Album artwork for The Hype" /></a></td><td><a href="https://open.spotify.com/track/7I3skNaQdvZSS7zXY2VHId">The Hype</a><br>Twenty One Pilots</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/0sXvjZV7p4uvyPN4uQo3FH"><img src="https://i.scdn.co/image/ab67616d00004851d1d301e737da4324479c6660" width="48" height="48" alt="Album artwork for Neon Gravestones" /></a></td><td><a href="https://open.spotify.com/track/0sXvjZV7p4uvyPN4uQo3FH">Neon Gravestones</a><br>Twenty One Pilots</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/5G6Gt9RtNaeIE418pd4yre"><img src="https://i.scdn.co/image/ab67616d00004851d1d301e737da4324479c6660" width="48" height="48" alt="Album artwork for Smithereens" /></a></td><td><a href="https://open.spotify.com/track/5G6Gt9RtNaeIE418pd4yre">Smithereens</a><br>Twenty One Pilots</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/23OXdR7YuUBVWh5hSnYJau"><img src="https://i.scdn.co/image/ab67616d00004851d1d301e737da4324479c6660" width="48" height="48" alt="Album artwork for Chlorine" /></a></td><td><a href="https://open.spotify.com/track/23OXdR7YuUBVWh5hSnYJau">Chlorine</a><br>Twenty One Pilots</td></tr>
+<tr><td><a href="https://open.spotify.com/track/4m9NfjevXsDVaLtM1kj0Sx"><img src="https://i.scdn.co/image/ab67616d0000485169966efa45b125ed6711b43c" width="64" height="64" alt="Album artwork for crushcrushcrush" /></a></td><td><a href="https://open.spotify.com/track/4m9NfjevXsDVaLtM1kj0Sx">crushcrushcrush</a><br>Paramore</td></tr>
 </table>
 <!-- SPOTIFY:END -->
