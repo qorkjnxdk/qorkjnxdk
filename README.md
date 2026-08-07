@@ -113,6 +113,10 @@
 ### Listening To
 
 <table>
-<tr><td><a href="https://open.spotify.com/track/4m9NfjevXsDVaLtM1kj0Sx"><img src="https://i.scdn.co/image/ab67616d0000485169966efa45b125ed6711b43c" width="64" height="64" alt="Album artwork for crushcrushcrush" /></a></td><td><a href="https://open.spotify.com/track/4m9NfjevXsDVaLtM1kj0Sx">crushcrushcrush</a><br>Paramore</td></tr>
+<tr><td>01</td><td><a href="https://open.spotify.com/track/1fJFuvU2ldmeAm5nFIHcPP"><img src="https://i.scdn.co/image/ab67616d00004851d9d27e5b56e2b983e54dba64" width="48" height="48" alt="Album artwork for First Date" /></a></td><td><a href="https://open.spotify.com/track/1fJFuvU2ldmeAm5nFIHcPP">First Date</a><br>blink-182</td></tr>
+<tr><td>02</td><td><a href="https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"><img src="https://i.scdn.co/image/ab67616d0000485195d1d98c5176e4f982bd73d6" width="48" height="48" alt="Album artwork for The Middle" /></a></td><td><a href="https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO">The Middle</a><br>Jimmy Eat World</td></tr>
+<tr><td>03</td><td><a href="https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT"><img src="https://i.scdn.co/image/ab67616d00004851c72cc4087da2190116857f37" width="48" height="48" alt="Album artwork for Click Click Boom" /></a></td><td><a href="https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT">Click Click Boom</a><br>Saliva</td></tr>
+<tr><td>04</td><td><a href="https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"><img src="https://i.scdn.co/image/ab67616d000048516c52084ed1f1748f213783b3" width="48" height="48" alt="Album artwork for Learn to Fly" /></a></td><td><a href="https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT">Learn to Fly</a><br>Foo Fighters</td></tr>
+<tr><td>05</td><td><a href="https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx"><img src="https://i.scdn.co/image/ab67616d00004851d1fd8f264564d9eef7617a45" width="48" height="48" alt="Album artwork for Ocean Avenue" /></a></td><td><a href="https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx">Ocean Avenue</a><br>Yellowcard</td></tr>
 </table>
 <!-- SPOTIFY:END -->
