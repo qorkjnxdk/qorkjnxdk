@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"><img src="https://i.scdn.co/image/ab67616d000048510c12ef918102b8d303dc9e9b" width="48" height="48" alt="Album artwork for Semi-Charmed Life" /></a></td><td><a href="https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl">Semi-Charmed Life</a><br>Third Eye Blind</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/17yReVjsDb7Hlvjqz6jhDm"><img src="https://i.scdn.co/image/ab67616d00004851be4d59ea0836a886e2db0410" width="48" height="48" alt="Album artwork for I Don&#x27;t Want to Be" /></a></td><td><a href="https://open.spotify.com/track/17yReVjsDb7Hlvjqz6jhDm">I Don&#x27;t Want to Be</a><br>Gavin DeGraw</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/1N62wozuHCvczCkY4QidpP"><img src="https://i.scdn.co/image/ab67616d0000485159b8b957f164ce660919f1f4" width="48" height="48" alt="Album artwork for Over My Head (Cable Car)" /></a></td><td><a href="https://open.spotify.com/track/1N62wozuHCvczCkY4QidpP">Over My Head (Cable Car)</a><br>The Fray</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU"><img src="https://i.scdn.co/image/ab67616d00004851f7ec724fbf97a30869d06240" width="48" height="48" alt="Album artwork for Sk8er Boi" /></a></td><td><a href="https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU">Sk8er Boi</a><br>Avril Lavigne</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/0gSNi1CGG7ExDV8UvUsSoj"><img src="https://i.scdn.co/image/ab67616d0000485105b9e4f856db958eacdb7cb3" width="48" height="48" alt="Album artwork for Dirty Little Secret" /></a></td><td><a href="https://open.spotify.com/track/0gSNi1CGG7ExDV8UvUsSoj">Dirty Little Secret</a><br>The All-American Rejects</td></tr>
+<tr><td><a href="https://open.spotify.com/track/2gSVKxPDww9Eep5rdvtdem"><img src="https://i.scdn.co/image/ab67616d000048514a31b146c7cf07705d912efe" width="64" height="64" alt="Album artwork for My Way" /></a></td><td><a href="https://open.spotify.com/track/2gSVKxPDww9Eep5rdvtdem">My Way</a><br>Limp Bizkit</td></tr>
 </table>
 <!-- SPOTIFY:END -->
