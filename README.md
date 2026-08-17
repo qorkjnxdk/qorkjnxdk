@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu"><img src="https://i.scdn.co/image/ab67616d00004851aa5e4c9da271951ac0b31fa2" width="48" height="48" alt="Album artwork for Who Can It Be Now?" /></a></td><td><a href="https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu">Who Can It Be Now?</a><br>Men At Work</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/2nrG5UtAcqXbYttu7MXP1p"><img src="https://i.scdn.co/image/ab67616d0000485144c0a9843fac69db4d56d14e" width="48" height="48" alt="Album artwork for Under Pressure (feat. David Bowie)" /></a></td><td><a href="https://open.spotify.com/track/2nrG5UtAcqXbYttu7MXP1p">Under Pressure (feat. David Bowie)</a><br>Queen, David Bowie</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/1nLnpLXvl68RZCSjfkyiaa"><img src="https://i.scdn.co/image/ab67616d00004851ac9a652335cf34de9a65292a" width="48" height="48" alt="Album artwork for Brain Stew" /></a></td><td><a href="https://open.spotify.com/track/1nLnpLXvl68RZCSjfkyiaa">Brain Stew</a><br>Green Day</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/2gSVKxPDww9Eep5rdvtdem"><img src="https://i.scdn.co/image/ab67616d000048514a31b146c7cf07705d912efe" width="48" height="48" alt="Album artwork for My Way" /></a></td><td><a href="https://open.spotify.com/track/2gSVKxPDww9Eep5rdvtdem">My Way</a><br>Limp Bizkit</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"><img src="https://i.scdn.co/image/ab67616d000048510c12ef918102b8d303dc9e9b" width="48" height="48" alt="Album artwork for Semi-Charmed Life" /></a></td><td><a href="https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl">Semi-Charmed Life</a><br>Third Eye Blind</td></tr>
+<tr><td><a href="https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw"><img src="https://i.scdn.co/image/ab67616d000048511be40e44db112e123e5e8b51" width="64" height="64" alt="Album artwork for Carry on Wayward Son" /></a></td><td><a href="https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw">Carry on Wayward Son</a><br>Kansas</td></tr>
 </table>
 <!-- SPOTIFY:END -->
