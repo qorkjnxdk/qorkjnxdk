@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/5Y8Rj0s6wuM5DlQdllYiWl"><img src="https://i.scdn.co/image/ab67616d000048510143f3a3fdce907232ec9f94" width="48" height="48" alt="Album artwork for Don&#x27;t You (Forget About Me)" /></a></td><td><a href="https://open.spotify.com/track/5Y8Rj0s6wuM5DlQdllYiWl">Don&#x27;t You (Forget About Me)</a><br>Simple Minds</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF"><img src="https://i.scdn.co/image/ab67616d00004851dfdedd4553b40bbaab342dae" width="48" height="48" alt="Album artwork for You Get What You Give" /></a></td><td><a href="https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF">You Get What You Give</a><br>New Radicals</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw"><img src="https://i.scdn.co/image/ab67616d000048511be40e44db112e123e5e8b51" width="48" height="48" alt="Album artwork for Carry on Wayward Son" /></a></td><td><a href="https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw">Carry on Wayward Son</a><br>Kansas</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW"><img src="https://i.scdn.co/image/ab67616d00004851f1157b7dcd21bae0c2c75d89" width="48" height="48" alt="Album artwork for Fly Away" /></a></td><td><a href="https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW">Fly Away</a><br>Lenny Kravitz</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/1f2V8U1BiWaC9aJWmpOARe"><img src="https://i.scdn.co/image/ab67616d00004851de1af2785a83cc660155a0c4" width="48" height="48" alt="Album artwork for By the Way" /></a></td><td><a href="https://open.spotify.com/track/1f2V8U1BiWaC9aJWmpOARe">By the Way</a><br>Red Hot Chili Peppers</td></tr>
+<tr><td><a href="https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"><img src="https://i.scdn.co/image/ab67616d00004851ccdddd46119a4ff53eaf1f5d" width="64" height="64" alt="Album artwork for Mr. Brightside" /></a></td><td><a href="https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B">Mr. Brightside</a><br>The Killers</td></tr>
 </table>
 <!-- SPOTIFY:END -->
