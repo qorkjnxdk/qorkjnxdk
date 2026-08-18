@@ -113,6 +113,10 @@
 ### Listening To
 
 <table>
-<tr><td><a href="https://open.spotify.com/track/2d6m2F4I7wCuAKtSsdhh83"><img src="https://i.scdn.co/image/ab67616d00004851663b6ce496144fa5c3670ac0" width="64" height="64" alt="Album artwork for Famous Last Words" /></a></td><td><a href="https://open.spotify.com/track/2d6m2F4I7wCuAKtSsdhh83">Famous Last Words</a><br>My Chemical Romance</td></tr>
+<tr><td>01</td><td><a href="https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"><img src="https://i.scdn.co/image/ab67616d00004851699a422d25adc550dc5aa11c" width="48" height="48" alt="Album artwork for How You Remind Me" /></a></td><td><a href="https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf">How You Remind Me</a><br>Nickelback</td></tr>
+<tr><td>02</td><td><a href="https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"><img src="https://i.scdn.co/image/ab67616d00004851cbd2ee7dff77bfb2b5f0af52" width="48" height="48" alt="Album artwork for The Kids Aren&#x27;t Alright" /></a></td><td><a href="https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf">The Kids Aren&#x27;t Alright</a><br>The Offspring</td></tr>
+<tr><td>03</td><td><a href="https://open.spotify.com/track/4m9NfjevXsDVaLtM1kj0Sx"><img src="https://i.scdn.co/image/ab67616d0000485169966efa45b125ed6711b43c" width="48" height="48" alt="Album artwork for crushcrushcrush" /></a></td><td><a href="https://open.spotify.com/track/4m9NfjevXsDVaLtM1kj0Sx">crushcrushcrush</a><br>Paramore</td></tr>
+<tr><td>04</td><td><a href="https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"><img src="https://i.scdn.co/image/ab67616d000048517b40b2abdbcb8520874f29ed" width="48" height="48" alt="Album artwork for My Own Worst Enemy" /></a></td><td><a href="https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z">My Own Worst Enemy</a><br>Lit</td></tr>
+<tr><td>05</td><td><a href="https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"><img src="https://i.scdn.co/image/ab67616d000048512519d01c0cca06f134eeadd8" width="48" height="48" alt="Album artwork for Sex on Fire" /></a></td><td><a href="https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45">Sex on Fire</a><br>Kings of Leon</td></tr>
 </table>
 <!-- SPOTIFY:END -->
