@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"><img src="https://i.scdn.co/image/ab67616d000048512519d01c0cca06f134eeadd8" width="48" height="48" alt="Album artwork for Sex on Fire" /></a></td><td><a href="https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45">Sex on Fire</a><br>Kings of Leon</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/0U87auHx1iZTEFcq9KVdmO"><img src="https://i.scdn.co/image/ab67616d000048510436e7b2f1dc434862bb8354" width="48" height="48" alt="Album artwork for Boulevard of Broken Dreams" /></a></td><td><a href="https://open.spotify.com/track/0U87auHx1iZTEFcq9KVdmO">Boulevard of Broken Dreams</a><br>Green Day</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"><img src="https://i.scdn.co/image/ab67616d00004851eda9478c39a21e1cdc6609ca" width="48" height="48" alt="Album artwork for Iris" /></a></td><td><a href="https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs">Iris</a><br>The Goo Goo Dolls</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"><img src="https://i.scdn.co/image/ab67616d00004851ccdddd46119a4ff53eaf1f5d" width="48" height="48" alt="Album artwork for Mr. Brightside" /></a></td><td><a href="https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B">Mr. Brightside</a><br>The Killers</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/7sapKrjDij2fpDVj0GxP66"><img src="https://i.scdn.co/image/ab67616d0000485117b3850d758fff5a2301e537" width="48" height="48" alt="Album artwork for She Will Be Loved" /></a></td><td><a href="https://open.spotify.com/track/7sapKrjDij2fpDVj0GxP66">She Will Be Loved</a><br>Maroon 5</td></tr>
+<tr><td><a href="https://open.spotify.com/track/2d6m2F4I7wCuAKtSsdhh83"><img src="https://i.scdn.co/image/ab67616d00004851663b6ce496144fa5c3670ac0" width="64" height="64" alt="Album artwork for Famous Last Words" /></a></td><td><a href="https://open.spotify.com/track/2d6m2F4I7wCuAKtSsdhh83">Famous Last Words</a><br>My Chemical Romance</td></tr>
 </table>
 <!-- SPOTIFY:END -->
