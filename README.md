@@ -113,6 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td><a href="https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"><img src="https://i.scdn.co/image/ab67616d00004851495ce6da9aeb159e94eaa453" width="64" height="64" alt="Album artwork for Closer" /></a></td><td><a href="https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw">Closer</a><br>The Chainsmokers, Halsey</td></tr>
+<tr><td><a href="https://open.spotify.com/track/7IhsLJMqdxoo7YAZjaSMru"><img src="https://i.scdn.co/image/ab67616d00004851b6d4478c6f91f1cb2d326c78" width="64" height="64" alt="Album artwork for Dead And Gone" /></a></td><td><a href="https://open.spotify.com/track/7IhsLJMqdxoo7YAZjaSMru">Dead And Gone</a><br>T.I., Justin Timberlake</td></tr>
 </table>
 <!-- SPOTIFY:END -->
