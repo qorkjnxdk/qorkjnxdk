@@ -113,6 +113,10 @@
 ### Listening To
 
 <table>
-<tr><td><a href="https://open.spotify.com/track/7IhsLJMqdxoo7YAZjaSMru"><img src="https://i.scdn.co/image/ab67616d00004851b6d4478c6f91f1cb2d326c78" width="64" height="64" alt="Album artwork for Dead And Gone" /></a></td><td><a href="https://open.spotify.com/track/7IhsLJMqdxoo7YAZjaSMru">Dead And Gone</a><br>T.I., Justin Timberlake</td></tr>
+<tr><td>01</td><td><a href="https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y"><img src="https://i.scdn.co/image/ab67616d000048511dec5cdebb0ea9b3df5fd0ca" width="48" height="48" alt="Album artwork for Club Can&#x27;t Handle Me (feat. David Guetta)" /></a></td><td><a href="https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y">Club Can&#x27;t Handle Me (feat. David Guetta)</a><br>Flo Rida, David Guetta</td></tr>
+<tr><td>02</td><td><a href="https://open.spotify.com/track/7IhsLJMqdxoo7YAZjaSMru"><img src="https://i.scdn.co/image/ab67616d00004851b6d4478c6f91f1cb2d326c78" width="48" height="48" alt="Album artwork for Dead And Gone" /></a></td><td><a href="https://open.spotify.com/track/7IhsLJMqdxoo7YAZjaSMru">Dead And Gone</a><br>T.I., Justin Timberlake</td></tr>
+<tr><td>03</td><td><a href="https://open.spotify.com/track/1htQDV8JxSuXG2QsNj5ttr"><img src="https://i.scdn.co/image/ab67616d000048511d955011a3ed477dc77865ad" width="48" height="48" alt="Album artwork for Last Friday Night (T.G.I.F.)" /></a></td><td><a href="https://open.spotify.com/track/1htQDV8JxSuXG2QsNj5ttr">Last Friday Night (T.G.I.F.)</a><br>Katy Perry</td></tr>
+<tr><td>04</td><td><a href="https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ"><img src="https://i.scdn.co/image/ab67616d00004851eb3c078694b007169dab4a4f" width="48" height="48" alt="Album artwork for Am I Wrong" /></a></td><td><a href="https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ">Am I Wrong</a><br>Nico &amp; Vinz</td></tr>
+<tr><td>05</td><td><a href="https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"><img src="https://i.scdn.co/image/ab67616d0000485105d081cbdc2f67d37a364d63" width="48" height="48" alt="Album artwork for Riptide" /></a></td><td><a href="https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o">Riptide</a><br>Vance Joy</td></tr>
 </table>
 <!-- SPOTIFY:END -->
