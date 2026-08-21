@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/5qII2n90lVdPDcgXEEVHNy"><img src="https://i.scdn.co/image/ab67616d0000485192f2d790c6a97b195f66d51e" width="48" height="48" alt="Album artwork for Sunday Morning" /></a></td><td><a href="https://open.spotify.com/track/5qII2n90lVdPDcgXEEVHNy">Sunday Morning</a><br>Maroon 5</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/0CokSRCu5hZgPxcZBaEzVE"><img src="https://i.scdn.co/image/ab67616d000048512e94b668c60b06deb1c3a05c" width="48" height="48" alt="Album artwork for Glorious (feat. Skylar Grey)" /></a></td><td><a href="https://open.spotify.com/track/0CokSRCu5hZgPxcZBaEzVE">Glorious (feat. Skylar Grey)</a><br>Macklemore, Skylar Grey</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/1CnPYaKxTVb4LWOtiGOm0m"><img src="https://i.scdn.co/image/ab67616d00004851a01c1fddc334c0bd15e4452d" width="48" height="48" alt="Album artwork for All Time Low" /></a></td><td><a href="https://open.spotify.com/track/1CnPYaKxTVb4LWOtiGOm0m">All Time Low</a><br>Jon Bellion</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/5BXg13zwPCtGMxBHLqU8fi"><img src="https://i.scdn.co/image/ab67616d00004851fc8633e22a7dba6aab817bff" width="48" height="48" alt="Album artwork for The Man Who Never Lied" /></a></td><td><a href="https://open.spotify.com/track/5BXg13zwPCtGMxBHLqU8fi">The Man Who Never Lied</a><br>Maroon 5</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/2pyjbGTpJCPjMYwCbdymiF"><img src="https://i.scdn.co/image/ab67616d00004851e283e53690ec01436b11bdf2" width="48" height="48" alt="Album artwork for Dazed &amp; Confused" /></a></td><td><a href="https://open.spotify.com/track/2pyjbGTpJCPjMYwCbdymiF">Dazed &amp; Confused</a><br>Ruel</td></tr>
+<tr><td><a href="https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"><img src="https://i.scdn.co/image/ab67616d00004851495ce6da9aeb159e94eaa453" width="64" height="64" alt="Album artwork for Closer" /></a></td><td><a href="https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw">Closer</a><br>The Chainsmokers, Halsey</td></tr>
 </table>
 <!-- SPOTIFY:END -->
