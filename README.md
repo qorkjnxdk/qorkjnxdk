@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR"><img src="https://i.scdn.co/image/ab67616d00004851bfc19627a4a3a604c0a195e5" width="48" height="48" alt="Album artwork for It Ain&#x27;t Over &#x27;Til It&#x27;s Over" /></a></td><td><a href="https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR">It Ain&#x27;t Over &#x27;Til It&#x27;s Over</a><br>Lenny Kravitz</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW"><img src="https://i.scdn.co/image/ab67616d00004851f1157b7dcd21bae0c2c75d89" width="48" height="48" alt="Album artwork for Fly Away" /></a></td><td><a href="https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW">Fly Away</a><br>Lenny Kravitz</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/46QazXxQS0B31CnbRCy8CV"><img src="https://i.scdn.co/image/ab67616d000048519f2023d391c3bd4acf4d51c6" width="48" height="48" alt="Album artwork for Rock You Like a Hurricane - 2011" /></a></td><td><a href="https://open.spotify.com/track/46QazXxQS0B31CnbRCy8CV">Rock You Like a Hurricane - 2011</a><br>Scorpions</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/3UN6cIn3VIyg0z1LCuFSum"><img src="https://i.scdn.co/image/ab67616d0000485163bf1cd36632031eb3081cb0" width="48" height="48" alt="Album artwork for Without You (feat. Usher)" /></a></td><td><a href="https://open.spotify.com/track/3UN6cIn3VIyg0z1LCuFSum">Without You (feat. Usher)</a><br>David Guetta, USHER</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y"><img src="https://i.scdn.co/image/ab67616d000048511dec5cdebb0ea9b3df5fd0ca" width="48" height="48" alt="Album artwork for Club Can&#x27;t Handle Me (feat. David Guetta)" /></a></td><td><a href="https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y">Club Can&#x27;t Handle Me (feat. David Guetta)</a><br>Flo Rida, David Guetta</td></tr>
+<tr><td><a href="https://open.spotify.com/track/5e08a8D8T3z4LDXbUIjxKQ"><img src="https://i.scdn.co/image/ab67616d00004851cf8c069ed0d651e3a1f2bd27" width="64" height="64" alt="Album artwork for Wait a Minute!" /></a></td><td><a href="https://open.spotify.com/track/5e08a8D8T3z4LDXbUIjxKQ">Wait a Minute!</a><br>WILLOW</td></tr>
 </table>
 <!-- SPOTIFY:END -->
