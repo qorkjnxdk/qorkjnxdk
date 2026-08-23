@@ -113,6 +113,10 @@
 ### Listening To
 
 <table>
-<tr><td><a href="https://open.spotify.com/track/5e08a8D8T3z4LDXbUIjxKQ"><img src="https://i.scdn.co/image/ab67616d00004851cf8c069ed0d651e3a1f2bd27" width="64" height="64" alt="Album artwork for Wait a Minute!" /></a></td><td><a href="https://open.spotify.com/track/5e08a8D8T3z4LDXbUIjxKQ">Wait a Minute!</a><br>WILLOW</td></tr>
+<tr><td>01</td><td><a href="https://open.spotify.com/track/7MlDNspYwfqnHxORufupwq"><img src="https://i.scdn.co/image/ab67616d00004851511b07369101734098b14b0d" width="48" height="48" alt="Album artwork for Sex, Drugs, Etc." /></a></td><td><a href="https://open.spotify.com/track/7MlDNspYwfqnHxORufupwq">Sex, Drugs, Etc.</a><br>Beach Weather</td></tr>
+<tr><td>02</td><td><a href="https://open.spotify.com/track/3G6hD9B2ZHOsgf4WfNu7X1"><img src="https://i.scdn.co/image/ab67616d00004851187331e276c898d39764cc98" width="48" height="48" alt="Album artwork for Team" /></a></td><td><a href="https://open.spotify.com/track/3G6hD9B2ZHOsgf4WfNu7X1">Team</a><br>Lorde</td></tr>
+<tr><td>03</td><td><a href="https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"><img src="https://i.scdn.co/image/ab67616d00004851cc2cf912462d8ae4ef856434" width="48" height="48" alt="Album artwork for Electric Love" /></a></td><td><a href="https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ">Electric Love</a><br>BØRNS</td></tr>
+<tr><td>04</td><td><a href="https://open.spotify.com/track/14AyWf6y7KlWWLfAjdKMKI"><img src="https://i.scdn.co/image/ab67616d0000485121b550b66cf1391c6642088c" width="48" height="48" alt="Album artwork for Ophelia" /></a></td><td><a href="https://open.spotify.com/track/14AyWf6y7KlWWLfAjdKMKI">Ophelia</a><br>The Lumineers</td></tr>
+<tr><td>05</td><td><a href="https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ"><img src="https://i.scdn.co/image/ab67616d0000485111b78d26863f111044c4060f" width="48" height="48" alt="Album artwork for Brazil" /></a></td><td><a href="https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ">Brazil</a><br>Declan McKenna</td></tr>
 </table>
 <!-- SPOTIFY:END -->
