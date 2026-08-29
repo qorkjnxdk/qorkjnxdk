@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/2Y6uY65ZwKl9WbVOvKyZg6"><img src="https://i.scdn.co/image/ab67616d000048517847812d4833f621e10daee6" width="48" height="48" alt="Album artwork for Accidentally In Love - From &quot;Shrek 2&quot; Soundtrack" /></a></td><td><a href="https://open.spotify.com/track/2Y6uY65ZwKl9WbVOvKyZg6">Accidentally In Love - From &quot;Shrek 2&quot; Soundtrack</a><br>Counting Crows</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG"><img src="https://i.scdn.co/image/ab67616d00004851fbee462a3aa4e7ea05e07aa5" width="48" height="48" alt="Album artwork for I&#x27;m Just a Kid" /></a></td><td><a href="https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG">I&#x27;m Just a Kid</a><br>Simple Plan</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"><img src="https://i.scdn.co/image/ab67616d00004851db89b08034de626ebee6823d" width="48" height="48" alt="Album artwork for Basket Case" /></a></td><td><a href="https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s">Basket Case</a><br>Green Day</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/2TofEeQobQ9YoK7EFds698"><img src="https://i.scdn.co/image/ab67616d0000485149e6168f69625252689c2526" width="48" height="48" alt="Album artwork for You Give Love A Bad Name" /></a></td><td><a href="https://open.spotify.com/track/2TofEeQobQ9YoK7EFds698">You Give Love A Bad Name</a><br>Bon Jovi</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/0WoFs3EdGOx58yX5BtXvOa"><img src="https://i.scdn.co/image/ab67616d00004851ffaeb2f6c1acc0ed7180929a" width="48" height="48" alt="Album artwork for Your Love" /></a></td><td><a href="https://open.spotify.com/track/0WoFs3EdGOx58yX5BtXvOa">Your Love</a><br>The Outfield</td></tr>
+<tr><td><a href="https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW"><img src="https://i.scdn.co/image/ab67616d00004851f1157b7dcd21bae0c2c75d89" width="64" height="64" alt="Album artwork for Fly Away" /></a></td><td><a href="https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW">Fly Away</a><br>Lenny Kravitz</td></tr>
 </table>
 <!-- SPOTIFY:END -->
