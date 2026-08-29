@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK"><img src="https://i.scdn.co/image/ab67616d00004851faa6560290393ee2057a6581" width="48" height="48" alt="Album artwork for Cupid&#x27;s Chokehold / Breakfast in America" /></a></td><td><a href="https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK">Cupid&#x27;s Chokehold / Breakfast in America</a><br>Gym Class Heroes</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/7MlDNspYwfqnHxORufupwq"><img src="https://i.scdn.co/image/ab67616d00004851511b07369101734098b14b0d" width="48" height="48" alt="Album artwork for Sex, Drugs, Etc." /></a></td><td><a href="https://open.spotify.com/track/7MlDNspYwfqnHxORufupwq">Sex, Drugs, Etc.</a><br>Beach Weather</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/3G6hD9B2ZHOsgf4WfNu7X1"><img src="https://i.scdn.co/image/ab67616d00004851187331e276c898d39764cc98" width="48" height="48" alt="Album artwork for Team" /></a></td><td><a href="https://open.spotify.com/track/3G6hD9B2ZHOsgf4WfNu7X1">Team</a><br>Lorde</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"><img src="https://i.scdn.co/image/ab67616d00004851cc2cf912462d8ae4ef856434" width="48" height="48" alt="Album artwork for Electric Love" /></a></td><td><a href="https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ">Electric Love</a><br>BØRNS</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/14AyWf6y7KlWWLfAjdKMKI"><img src="https://i.scdn.co/image/ab67616d0000485121b550b66cf1391c6642088c" width="48" height="48" alt="Album artwork for Ophelia" /></a></td><td><a href="https://open.spotify.com/track/14AyWf6y7KlWWLfAjdKMKI">Ophelia</a><br>The Lumineers</td></tr>
+<tr><td><a href="https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU"><img src="https://i.scdn.co/image/ab67616d00004851e52a59a28efa4773dd2bfe1b" width="64" height="64" alt="Album artwork for The Chain - 2004 Remaster" /></a></td><td><a href="https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU">The Chain - 2004 Remaster</a><br>Fleetwood Mac</td></tr>
 </table>
 <!-- SPOTIFY:END -->
