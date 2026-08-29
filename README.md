@@ -113,6 +113,10 @@
 ### Listening To
 
 <table>
-<tr><td><a href="https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW"><img src="https://i.scdn.co/image/ab67616d00004851f1157b7dcd21bae0c2c75d89" width="64" height="64" alt="Album artwork for Fly Away" /></a></td><td><a href="https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW">Fly Away</a><br>Lenny Kravitz</td></tr>
+<tr><td>01</td><td><a href="https://open.spotify.com/track/37Tmv4NnfQeb0ZgUC4fOJj"><img src="https://i.scdn.co/image/ab67616d00004851b49d49cc95564aede7998bb8" width="48" height="48" alt="Album artwork for Sultans Of Swing" /></a></td><td><a href="https://open.spotify.com/track/37Tmv4NnfQeb0ZgUC4fOJj">Sultans Of Swing</a><br>Dire Straits</td></tr>
+<tr><td>02</td><td><a href="https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH"><img src="https://i.scdn.co/image/ab67616d0000485152038992fc6d7868f31d23b7" width="48" height="48" alt="Album artwork for Stayin&#x27; Alive - From &quot;Saturday Night Fever&quot; Soundtrack" /></a></td><td><a href="https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH">Stayin&#x27; Alive - From &quot;Saturday Night Fever&quot; Soundtrack</a><br>Bee Gees</td></tr>
+<tr><td>03</td><td><a href="https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI"><img src="https://i.scdn.co/image/ab67616d00004851128450651c9f0442780d8eb8" width="48" height="48" alt="Album artwork for Free Bird" /></a></td><td><a href="https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI">Free Bird</a><br>Lynyrd Skynyrd</td></tr>
+<tr><td>04</td><td><a href="https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"><img src="https://i.scdn.co/image/ab67616d00004851663b6ce496144fa5c3670ac0" width="48" height="48" alt="Album artwork for Teenagers" /></a></td><td><a href="https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0">Teenagers</a><br>My Chemical Romance</td></tr>
+<tr><td>05</td><td><a href="https://open.spotify.com/track/2Y6uY65ZwKl9WbVOvKyZg6"><img src="https://i.scdn.co/image/ab67616d000048517847812d4833f621e10daee6" width="48" height="48" alt="Album artwork for Accidentally In Love - From &quot;Shrek 2&quot; Soundtrack" /></a></td><td><a href="https://open.spotify.com/track/2Y6uY65ZwKl9WbVOvKyZg6">Accidentally In Love - From &quot;Shrek 2&quot; Soundtrack</a><br>Counting Crows</td></tr>
 </table>
 <!-- SPOTIFY:END -->
