@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO"><img src="https://i.scdn.co/image/ab67616d000048518ec81cc654b45ade8bdf1486" width="48" height="48" alt="Album artwork for Message In A Bottle" /></a></td><td><a href="https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO">Message In A Bottle</a><br>The Police</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"><img src="https://i.scdn.co/image/ab67616d000048512043dd3544a339547d04b436" width="48" height="48" alt="Album artwork for Roxanne" /></a></td><td><a href="https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo">Roxanne</a><br>The Police</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91"><img src="https://i.scdn.co/image/ab67616d0000485123290120a609a65e14cfe018" width="48" height="48" alt="Album artwork for Don&#x27;t Stop Believin&#x27; (2022 Remaster)" /></a></td><td><a href="https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91">Don&#x27;t Stop Believin&#x27; (2022 Remaster)</a><br>Journey</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI"><img src="https://i.scdn.co/image/ab67616d00004851128450651c9f0442780d8eb8" width="48" height="48" alt="Album artwork for Free Bird" /></a></td><td><a href="https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI">Free Bird</a><br>Lynyrd Skynyrd</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/37Tmv4NnfQeb0ZgUC4fOJj"><img src="https://i.scdn.co/image/ab67616d00004851b49d49cc95564aede7998bb8" width="48" height="48" alt="Album artwork for Sultans Of Swing" /></a></td><td><a href="https://open.spotify.com/track/37Tmv4NnfQeb0ZgUC4fOJj">Sultans Of Swing</a><br>Dire Straits</td></tr>
+<tr><td><a href="https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"><img src="https://i.scdn.co/image/ab67616d00004851fc39eb9eb3f3824a58f338dc" width="64" height="64" alt="Album artwork for Shut Up and Dance" /></a></td><td><a href="https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA">Shut Up and Dance</a><br>WALK THE MOON</td></tr>
 </table>
 <!-- SPOTIFY:END -->
