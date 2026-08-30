@@ -113,6 +113,10 @@
 ### Listening To
 
 <table>
-<tr><td><a href="https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"><img src="https://i.scdn.co/image/ab67616d00004851fc39eb9eb3f3824a58f338dc" width="64" height="64" alt="Album artwork for Shut Up and Dance" /></a></td><td><a href="https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA">Shut Up and Dance</a><br>WALK THE MOON</td></tr>
+<tr><td>01</td><td><a href="https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"><img src="https://i.scdn.co/image/ab67616d00004851280b72ca76b4734debfc190e" width="48" height="48" alt="Album artwork for Should I Stay or Should I Go - Remastered" /></a></td><td><a href="https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz">Should I Stay or Should I Go - Remastered</a><br>The Clash</td></tr>
+<tr><td>02</td><td><a href="https://open.spotify.com/track/1QbOvACeYanja5pbnJbAmk"><img src="https://i.scdn.co/image/ab67616d00004851a19cee952b6dae128d68f116" width="48" height="48" alt="Album artwork for Take Me Home, Country Roads" /></a></td><td><a href="https://open.spotify.com/track/1QbOvACeYanja5pbnJbAmk">Take Me Home, Country Roads</a><br>John Denver</td></tr>
+<tr><td>03</td><td><a href="https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"><img src="https://i.scdn.co/image/ab67616d000048510f6ce5c138493ac768d9afc8" width="48" height="48" alt="Album artwork for Don&#x27;t Stop Believin&#x27;" /></a></td><td><a href="https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg">Don&#x27;t Stop Believin&#x27;</a><br>Journey</td></tr>
+<tr><td>04</td><td><a href="https://open.spotify.com/track/5M5WqXk6CtsdXn6YtXSj6m"><img src="https://i.scdn.co/image/ab67616d00004851cdcd73410624243d380add9f" width="48" height="48" alt="Album artwork for Hooked On A Feeling" /></a></td><td><a href="https://open.spotify.com/track/5M5WqXk6CtsdXn6YtXSj6m">Hooked On A Feeling</a><br>Blue Swede, Björn Skifs</td></tr>
+<tr><td>05</td><td><a href="https://open.spotify.com/track/2Y6uY65ZwKl9WbVOvKyZg6"><img src="https://i.scdn.co/image/ab67616d000048517847812d4833f621e10daee6" width="48" height="48" alt="Album artwork for Accidentally In Love - From &quot;Shrek 2&quot; Soundtrack" /></a></td><td><a href="https://open.spotify.com/track/2Y6uY65ZwKl9WbVOvKyZg6">Accidentally In Love - From &quot;Shrek 2&quot; Soundtrack</a><br>Counting Crows</td></tr>
 </table>
 <!-- SPOTIFY:END -->
