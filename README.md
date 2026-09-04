@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"><img src="https://i.scdn.co/image/ab67616d00004851eda9478c39a21e1cdc6609ca" width="48" height="48" alt="Album artwork for Iris" /></a></td><td><a href="https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs">Iris</a><br>The Goo Goo Dolls</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs"><img src="https://i.scdn.co/image/ab67616d000048513e42854096da9a3b1ca901c9" width="48" height="48" alt="Album artwork for All I Want" /></a></td><td><a href="https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs">All I Want</a><br>Kodaline</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"><img src="https://i.scdn.co/image/ab67616d00004851eb11e2abccdca41f39ad3b89" width="48" height="48" alt="Album artwork for I&#x27;m Still Standing" /></a></td><td><a href="https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2">I&#x27;m Still Standing</a><br>Elton John</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/64BbK9SFKH2jk86U3dGj2P"><img src="https://i.scdn.co/image/ab67616d0000485194d08ab63e57b0cae74e8595" width="48" height="48" alt="Album artwork for Otherside" /></a></td><td><a href="https://open.spotify.com/track/64BbK9SFKH2jk86U3dGj2P">Otherside</a><br>Red Hot Chili Peppers</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"><img src="https://i.scdn.co/image/ab67616d0000485146814e1b44e54d806753801e" width="48" height="48" alt="Album artwork for Come and Get Your Love - Single Version" /></a></td><td><a href="https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD">Come and Get Your Love - Single Version</a><br>Redbone</td></tr>
+<tr><td><a href="https://open.spotify.com/track/42NbsmivX4RD8nvBLcNGu5"><img src="https://i.scdn.co/image/ab67616d000048513f7561fb0914fb1f5f101f0a" width="64" height="64" alt="Album artwork for Still Beating" /></a></td><td><a href="https://open.spotify.com/track/42NbsmivX4RD8nvBLcNGu5">Still Beating</a><br>Mac DeMarco</td></tr>
 </table>
 <!-- SPOTIFY:END -->
