@@ -113,6 +113,10 @@
 ### Listening To
 
 <table>
-<tr><td><a href="https://open.spotify.com/track/42NbsmivX4RD8nvBLcNGu5"><img src="https://i.scdn.co/image/ab67616d000048513f7561fb0914fb1f5f101f0a" width="64" height="64" alt="Album artwork for Still Beating" /></a></td><td><a href="https://open.spotify.com/track/42NbsmivX4RD8nvBLcNGu5">Still Beating</a><br>Mac DeMarco</td></tr>
+<tr><td>01</td><td><a href="https://open.spotify.com/track/2NZ87trfvU01p9Uv5m5QiY"><img src="https://i.scdn.co/image/ab67616d000048514960e8b13691e5570337d4d8" width="48" height="48" alt="Album artwork for Empire Ants (feat. Little Dragon)" /></a></td><td><a href="https://open.spotify.com/track/2NZ87trfvU01p9Uv5m5QiY">Empire Ants (feat. Little Dragon)</a><br>Gorillaz, Little Dragon</td></tr>
+<tr><td>02</td><td><a href="https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"><img src="https://i.scdn.co/image/ab67616d000048510f35726025e0f025da4c688f" width="48" height="48" alt="Album artwork for Reptilia" /></a></td><td><a href="https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA">Reptilia</a><br>The Strokes</td></tr>
+<tr><td>03</td><td><a href="https://open.spotify.com/track/0xtIp0lgccN85GfGOekS5L"><img src="https://i.scdn.co/image/ab67616d000048519e1cfc756886ac782e363d79" width="48" height="48" alt="Album artwork for Yes I&#x27;m Changing" /></a></td><td><a href="https://open.spotify.com/track/0xtIp0lgccN85GfGOekS5L">Yes I&#x27;m Changing</a><br>Tame Impala</td></tr>
+<tr><td>04</td><td><a href="https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"><img src="https://i.scdn.co/image/ab67616d00004851975493c69e395bf309144b81" width="48" height="48" alt="Album artwork for Her" /></a></td><td><a href="https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1">Her</a><br>The American Dawn</td></tr>
+<tr><td>05</td><td><a href="https://open.spotify.com/track/6jHvX8ZnHKC1PnrPMJ0Emt"><img src="https://i.scdn.co/image/ab67616d00004851415b79227c6cee25f42fbf41" width="48" height="48" alt="Album artwork for Cigarette Daydreams" /></a></td><td><a href="https://open.spotify.com/track/6jHvX8ZnHKC1PnrPMJ0Emt">Cigarette Daydreams</a><br>Cage The Elephant</td></tr>
 </table>
 <!-- SPOTIFY:END -->
