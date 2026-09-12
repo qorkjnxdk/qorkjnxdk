@@ -113,6 +113,10 @@
 ### Listening To
 
 <table>
-<tr><td><a href="https://open.spotify.com/track/39q7xibBdRboeMKUbZEB6g"><img src="https://i.scdn.co/image/ab67616d000048510f258d2c9137e09c4b1cecb8" width="64" height="64" alt="Album artwork for Take Me Home, Country Roads" /></a></td><td><a href="https://open.spotify.com/track/39q7xibBdRboeMKUbZEB6g">Take Me Home, Country Roads</a><br>John Denver</td></tr>
+<tr><td>01</td><td><a href="https://open.spotify.com/track/2Y6uY65ZwKl9WbVOvKyZg6"><img src="https://i.scdn.co/image/ab67616d000048517847812d4833f621e10daee6" width="48" height="48" alt="Album artwork for Accidentally In Love - From &quot;Shrek 2&quot; Soundtrack" /></a></td><td><a href="https://open.spotify.com/track/2Y6uY65ZwKl9WbVOvKyZg6">Accidentally In Love - From &quot;Shrek 2&quot; Soundtrack</a><br>Counting Crows</td></tr>
+<tr><td>02</td><td><a href="https://open.spotify.com/track/2Fs18NaCDuluPG1DHGw1XG"><img src="https://i.scdn.co/image/ab67616d00004851aa6b03f85a0f2cb16e88ec0c" width="48" height="48" alt="Album artwork for Life is a Highway" /></a></td><td><a href="https://open.spotify.com/track/2Fs18NaCDuluPG1DHGw1XG">Life is a Highway</a><br>Rascal Flatts</td></tr>
+<tr><td>03</td><td><a href="https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"><img src="https://i.scdn.co/image/ab67616d000048510f6ce5c138493ac768d9afc8" width="48" height="48" alt="Album artwork for Don&#x27;t Stop Believin&#x27;" /></a></td><td><a href="https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg">Don&#x27;t Stop Believin&#x27;</a><br>Journey</td></tr>
+<tr><td>04</td><td><a href="https://open.spotify.com/track/5M5WqXk6CtsdXn6YtXSj6m"><img src="https://i.scdn.co/image/ab67616d00004851cdcd73410624243d380add9f" width="48" height="48" alt="Album artwork for Hooked On A Feeling" /></a></td><td><a href="https://open.spotify.com/track/5M5WqXk6CtsdXn6YtXSj6m">Hooked On A Feeling</a><br>Blue Swede, Björn Skifs</td></tr>
+<tr><td>05</td><td><a href="https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"><img src="https://i.scdn.co/image/ab67616d00004851a43a6482e327d623bb0c0f77" width="48" height="48" alt="Album artwork for Born in the U.S.A." /></a></td><td><a href="https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9">Born in the U.S.A.</a><br>Bruce Springsteen</td></tr>
 </table>
 <!-- SPOTIFY:END -->
