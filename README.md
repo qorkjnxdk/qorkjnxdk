@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW"><img src="https://i.scdn.co/image/ab67616d00004851663b6ce496144fa5c3670ac0" width="48" height="48" alt="Album artwork for Welcome to the Black Parade" /></a></td><td><a href="https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW">Welcome to the Black Parade</a><br>My Chemical Romance</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/11IYMTXu5Uws1DjmUMLOcP"><img src="https://i.scdn.co/image/ab67616d0000485106ad5b8704d1a23c7649611c" width="48" height="48" alt="Album artwork for Love Will Set You Free" /></a></td><td><a href="https://open.spotify.com/track/11IYMTXu5Uws1DjmUMLOcP">Love Will Set You Free</a><br>Kodaline</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/1m66JnSImBmArClevXcgFo"><img src="https://i.scdn.co/image/ab6742d3000052b71fb9500b4020a20ddb486410" width="48" height="48" alt="Album artwork for The Sharpest Lives - Live from Hoboken" /></a></td><td><a href="https://open.spotify.com/track/1m66JnSImBmArClevXcgFo">The Sharpest Lives - Live from Hoboken</a><br>My Chemical Romance</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/4EPJZZfwmToEj4XSXjP6NY"><img src="https://i.scdn.co/image/ab67616d000048513e42854096da9a3b1ca901c9" width="48" height="48" alt="Album artwork for Brand New Day" /></a></td><td><a href="https://open.spotify.com/track/4EPJZZfwmToEj4XSXjP6NY">Brand New Day</a><br>Kodaline</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/42fu5cmEhi5EWmoqaZUZuK"><img src="https://i.scdn.co/image/ab67616d0000485157ec56e5de7ec77b3c231f3b" width="48" height="48" alt="Album artwork for Wherever You Are" /></a></td><td><a href="https://open.spotify.com/track/42fu5cmEhi5EWmoqaZUZuK">Wherever You Are</a><br>Kodaline</td></tr>
+<tr><td><a href="https://open.spotify.com/track/4AGvD3qk7A5gxbazjPCEua"><img src="https://i.scdn.co/image/ab67616d000048511121a9feb0bbcf4b9517e11f" width="64" height="64" alt="Album artwork for Cake By The Ocean" /></a></td><td><a href="https://open.spotify.com/track/4AGvD3qk7A5gxbazjPCEua">Cake By The Ocean</a><br>DNCE</td></tr>
 </table>
 <!-- SPOTIFY:END -->
