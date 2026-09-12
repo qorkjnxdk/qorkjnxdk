@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"><img src="https://i.scdn.co/image/ab67616d0000485117e1907923e91181f38290ac" width="48" height="48" alt="Album artwork for Sweet Home Alabama" /></a></td><td><a href="https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg">Sweet Home Alabama</a><br>Lynyrd Skynyrd</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/2Fs18NaCDuluPG1DHGw1XG"><img src="https://i.scdn.co/image/ab67616d00004851aa6b03f85a0f2cb16e88ec0c" width="48" height="48" alt="Album artwork for Life is a Highway" /></a></td><td><a href="https://open.spotify.com/track/2Fs18NaCDuluPG1DHGw1XG">Life is a Highway</a><br>Rascal Flatts</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/2Y6uY65ZwKl9WbVOvKyZg6"><img src="https://i.scdn.co/image/ab67616d000048517847812d4833f621e10daee6" width="48" height="48" alt="Album artwork for Accidentally In Love - From &quot;Shrek 2&quot; Soundtrack" /></a></td><td><a href="https://open.spotify.com/track/2Y6uY65ZwKl9WbVOvKyZg6">Accidentally In Love - From &quot;Shrek 2&quot; Soundtrack</a><br>Counting Crows</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/2YiCMmONQcoMPX2bV1LxE0"><img src="https://i.scdn.co/image/ab67616d000048515e12c35cb4c848a927ef4b69" width="48" height="48" alt="Album artwork for Everybody Wants To Rule The World" /></a></td><td><a href="https://open.spotify.com/track/2YiCMmONQcoMPX2bV1LxE0">Everybody Wants To Rule The World</a><br>Tears For Fears</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"><img src="https://i.scdn.co/image/ab67616d00004851699a422d25adc550dc5aa11c" width="48" height="48" alt="Album artwork for How You Remind Me" /></a></td><td><a href="https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf">How You Remind Me</a><br>Nickelback</td></tr>
+<tr><td><a href="https://open.spotify.com/track/39q7xibBdRboeMKUbZEB6g"><img src="https://i.scdn.co/image/ab67616d000048510f258d2c9137e09c4b1cecb8" width="64" height="64" alt="Album artwork for Take Me Home, Country Roads" /></a></td><td><a href="https://open.spotify.com/track/39q7xibBdRboeMKUbZEB6g">Take Me Home, Country Roads</a><br>John Denver</td></tr>
 </table>
 <!-- SPOTIFY:END -->
