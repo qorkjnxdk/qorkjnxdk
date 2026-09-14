@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"><img src="https://i.scdn.co/image/ab67616d000048512a6b364528b128a4a17d100d" width="48" height="48" alt="Album artwork for Can&#x27;t Hold Us (feat. Ray Dalton)" /></a></td><td><a href="https://open.spotify.com/track/22skzmqfdWrjJylampe0kt">Can&#x27;t Hold Us (feat. Ray Dalton)</a><br>Macklemore, Ryan Lewis, Macklemore &amp; Ryan Lewis, Ray Dalton</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/1oew3nFNY3vMacJAsvry0S"><img src="https://i.scdn.co/image/ab67616d00004851647377a36072bd08e44dd32b" width="48" height="48" alt="Album artwork for Me And My Broken Heart" /></a></td><td><a href="https://open.spotify.com/track/1oew3nFNY3vMacJAsvry0S">Me And My Broken Heart</a><br>Rixton</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/7oUHzZKNKUTrlU7DYxhQ7v"><img src="https://i.scdn.co/image/ab67616d0000485137677af5b4f23fe9dc8a3c04" width="48" height="48" alt="Album artwork for Maps" /></a></td><td><a href="https://open.spotify.com/track/7oUHzZKNKUTrlU7DYxhQ7v">Maps</a><br>Maroon 5</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/7j56HrjR9cGzvekvZY3Faz"><img src="https://i.scdn.co/image/ab67616d0000485158c4833cc8b1a3d6e4890940" width="48" height="48" alt="Album artwork for HandClap" /></a></td><td><a href="https://open.spotify.com/track/7j56HrjR9cGzvekvZY3Faz">HandClap</a><br>Fitz and The Tantrums</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/2P4OICZRVAQcYAV2JReRfj"><img src="https://i.scdn.co/image/ab67616d000048515393c5d3cac806092a9bc468" width="48" height="48" alt="Album artwork for Waiting For Love" /></a></td><td><a href="https://open.spotify.com/track/2P4OICZRVAQcYAV2JReRfj">Waiting For Love</a><br>Avicii</td></tr>
+<tr><td><a href="https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn"><img src="https://i.scdn.co/image/ab67616d000048512df0d98a423025032d0db1f7" width="64" height="64" alt="Album artwork for Stressed Out" /></a></td><td><a href="https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn">Stressed Out</a><br>Twenty One Pilots</td></tr>
 </table>
 <!-- SPOTIFY:END -->
