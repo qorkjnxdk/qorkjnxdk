@@ -113,6 +113,10 @@
 ### Listening To
 
 <table>
-<tr><td><a href="https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn"><img src="https://i.scdn.co/image/ab67616d000048512df0d98a423025032d0db1f7" width="64" height="64" alt="Album artwork for Stressed Out" /></a></td><td><a href="https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn">Stressed Out</a><br>Twenty One Pilots</td></tr>
+<tr><td>01</td><td><a href="https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"><img src="https://i.scdn.co/image/ab67616d000048512a6b364528b128a4a17d100d" width="48" height="48" alt="Album artwork for Can&#x27;t Hold Us (feat. Ray Dalton)" /></a></td><td><a href="https://open.spotify.com/track/22skzmqfdWrjJylampe0kt">Can&#x27;t Hold Us (feat. Ray Dalton)</a><br>Macklemore, Ryan Lewis, Macklemore &amp; Ryan Lewis, Ray Dalton</td></tr>
+<tr><td>02</td><td><a href="https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0"><img src="https://i.scdn.co/image/ab67616d00004851b993cba8ff7d0a8e9ee18d46" width="48" height="48" alt="Album artwork for Stay" /></a></td><td><a href="https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0">Stay</a><br>Zedd, Alessia Cara</td></tr>
+<tr><td>03</td><td><a href="https://open.spotify.com/track/2vzMWO0T008m86yDnXwkII"><img src="https://i.scdn.co/image/ab67616d000048513a60095e50104070cc89ed9f" width="48" height="48" alt="Album artwork for Blame It on Me" /></a></td><td><a href="https://open.spotify.com/track/2vzMWO0T008m86yDnXwkII">Blame It on Me</a><br>George Ezra</td></tr>
+<tr><td>04</td><td><a href="https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"><img src="https://i.scdn.co/image/ab67616d00004851de0cd11d7b31c3bd1fd5983d" width="48" height="48" alt="Album artwork for Paradise" /></a></td><td><a href="https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D">Paradise</a><br>Coldplay</td></tr>
+<tr><td>05</td><td><a href="https://open.spotify.com/track/3GpbwCm3YxiWDvy29Uo3vP"><img src="https://i.scdn.co/image/ab67616d000048517eb51e495a5d31e24e0847cf" width="48" height="48" alt="Album artwork for Right Round" /></a></td><td><a href="https://open.spotify.com/track/3GpbwCm3YxiWDvy29Uo3vP">Right Round</a><br>Flo Rida, Kesha</td></tr>
 </table>
 <!-- SPOTIFY:END -->
