@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd"><img src="https://i.scdn.co/image/ab67616d000048517b98283e5e86ddf0dae96a82" width="48" height="48" alt="Album artwork for MONTERO (Call Me By Your Name)" /></a></td><td><a href="https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd">MONTERO (Call Me By Your Name)</a><br>Lil Nas X</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2"><img src="https://i.scdn.co/image/ab67616d00004851a6a335d613d151c626895a83" width="48" height="48" alt="Album artwork for Despacito - Remix" /></a></td><td><a href="https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2">Despacito - Remix</a><br>Luis Fonsi, Daddy Yankee, Justin Bieber</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG"><img src="https://i.scdn.co/image/ab67616d00004851024ea7e883a713a3ad552a71" width="48" height="48" alt="Album artwork for Meet Me At Our Spot" /></a></td><td><a href="https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG">Meet Me At Our Spot</a><br>THE ANXIETY, WILLOW, Tyler Cole</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/6ft9PAgNOjmZ2kFVP7LGqb"><img src="https://i.scdn.co/image/ab67616d00004851b96c21e15c091eb98a6c88a4" width="48" height="48" alt="Album artwork for Can&#x27;t Take My Eyes off You" /></a></td><td><a href="https://open.spotify.com/track/6ft9PAgNOjmZ2kFVP7LGqb">Can&#x27;t Take My Eyes off You</a><br>Frankie Valli</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ"><img src="https://i.scdn.co/image/ab67616d00004851f7f5503cfc6a54d31e65b112" width="48" height="48" alt="Album artwork for Shower" /></a></td><td><a href="https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ">Shower</a><br>Becky G</td></tr>
+<tr><td><a href="https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"><img src="https://i.scdn.co/image/ab67616d00004851663b6ce496144fa5c3670ac0" width="64" height="64" alt="Album artwork for Teenagers" /></a></td><td><a href="https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0">Teenagers</a><br>My Chemical Romance</td></tr>
 </table>
 <!-- SPOTIFY:END -->
