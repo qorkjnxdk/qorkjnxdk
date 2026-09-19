@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/0GgN4MhR5GKn5IcKN0e0rG"><img src="https://i.scdn.co/image/ab67616d00004851663b6ce496144fa5c3670ac0" width="48" height="48" alt="Album artwork for Cancer" /></a></td><td><a href="https://open.spotify.com/track/0GgN4MhR5GKn5IcKN0e0rG">Cancer</a><br>My Chemical Romance</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/7j2Bmzpnf6RwEWEQ2sv8Ho"><img src="https://i.scdn.co/image/ab67616d00004851663b6ce496144fa5c3670ac0" width="48" height="48" alt="Album artwork for House of Wolves" /></a></td><td><a href="https://open.spotify.com/track/7j2Bmzpnf6RwEWEQ2sv8Ho">House of Wolves</a><br>My Chemical Romance</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/4RAOI1etsgbh5NP3T5R8rN"><img src="https://i.scdn.co/image/ab67616d00004851663b6ce496144fa5c3670ac0" width="48" height="48" alt="Album artwork for I Don&#x27;t Love You" /></a></td><td><a href="https://open.spotify.com/track/4RAOI1etsgbh5NP3T5R8rN">I Don&#x27;t Love You</a><br>My Chemical Romance</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW"><img src="https://i.scdn.co/image/ab67616d00004851663b6ce496144fa5c3670ac0" width="48" height="48" alt="Album artwork for Welcome to the Black Parade" /></a></td><td><a href="https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW">Welcome to the Black Parade</a><br>My Chemical Romance</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/2kMjk14RmYyYhhSbipoa9U"><img src="https://i.scdn.co/image/ab67616d00004851663b6ce496144fa5c3670ac0" width="48" height="48" alt="Album artwork for The Sharpest Lives" /></a></td><td><a href="https://open.spotify.com/track/2kMjk14RmYyYhhSbipoa9U">The Sharpest Lives</a><br>My Chemical Romance</td></tr>
+<tr><td><a href="https://open.spotify.com/track/5Y8Rj0s6wuM5DlQdllYiWl"><img src="https://i.scdn.co/image/ab67616d000048510143f3a3fdce907232ec9f94" width="64" height="64" alt="Album artwork for Don&#x27;t You (Forget About Me)" /></a></td><td><a href="https://open.spotify.com/track/5Y8Rj0s6wuM5DlQdllYiWl">Don&#x27;t You (Forget About Me)</a><br>Simple Minds</td></tr>
 </table>
 <!-- SPOTIFY:END -->
