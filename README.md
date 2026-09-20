@@ -113,6 +113,10 @@
 ### Listening To
 
 <table>
-<tr><td><a href="https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR"><img src="https://i.scdn.co/image/ab67616d00004851bfc19627a4a3a604c0a195e5" width="64" height="64" alt="Album artwork for It Ain&#x27;t Over &#x27;Til It&#x27;s Over" /></a></td><td><a href="https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR">It Ain&#x27;t Over &#x27;Til It&#x27;s Over</a><br>Lenny Kravitz</td></tr>
+<tr><td>01</td><td><a href="https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX"><img src="https://i.scdn.co/image/ab67616d00004851c2ced39899b0d67cd5a724fa" width="48" height="48" alt="Album artwork for 21 Guns" /></a></td><td><a href="https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX">21 Guns</a><br>Green Day</td></tr>
+<tr><td>02</td><td><a href="https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"><img src="https://i.scdn.co/image/ab67616d00004851da071ae7564949fbbfc6904d" width="48" height="48" alt="Album artwork for Thnks fr th Mmrs" /></a></td><td><a href="https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP">Thnks fr th Mmrs</a><br>Fall Out Boy</td></tr>
+<tr><td>03</td><td><a href="https://open.spotify.com/track/1PSBzsahR2AKwLJgx8ehBj"><img src="https://i.scdn.co/image/ab67616d00004851748388a726648841ed81027e" width="48" height="48" alt="Album artwork for Bad Things (with Camila Cabello)" /></a></td><td><a href="https://open.spotify.com/track/1PSBzsahR2AKwLJgx8ehBj">Bad Things (with Camila Cabello)</a><br>mgk, Camila Cabello</td></tr>
+<tr><td>04</td><td><a href="https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX"><img src="https://i.scdn.co/image/ab67616d0000485185ea5f82c855acb4476b046c" width="48" height="48" alt="Album artwork for broken" /></a></td><td><a href="https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX">broken</a><br>lovelytheband</td></tr>
+<tr><td>05</td><td><a href="https://open.spotify.com/track/67WTwafOMgegV6ABnBQxcE"><img src="https://i.scdn.co/image/ab67616d00004851a036e1724bc7f2bab15cfda8" width="48" height="48" alt="Album artwork for Some Nights" /></a></td><td><a href="https://open.spotify.com/track/67WTwafOMgegV6ABnBQxcE">Some Nights</a><br>fun.</td></tr>
 </table>
 <!-- SPOTIFY:END -->
