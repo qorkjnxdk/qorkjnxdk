@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"><img src="https://i.scdn.co/image/ab67616d0000485146814e1b44e54d806753801e" width="48" height="48" alt="Album artwork for Come and Get Your Love - Single Version" /></a></td><td><a href="https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD">Come and Get Your Love - Single Version</a><br>Redbone</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/1WN4uNclrDuczTO3bCr8s1"><img src="https://i.scdn.co/image/ab67616d00004851b298efc29df3b69ec3f0d675" width="48" height="48" alt="Album artwork for Be My Baby" /></a></td><td><a href="https://open.spotify.com/track/1WN4uNclrDuczTO3bCr8s1">Be My Baby</a><br>The Ronettes</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/1tfZtA15BfJHQTUy3dqTKC"><img src="https://i.scdn.co/image/ab67616d00004851663fe218f7d98306c533af10" width="48" height="48" alt="Album artwork for Build Me Up Buttercup - Mono" /></a></td><td><a href="https://open.spotify.com/track/1tfZtA15BfJHQTUy3dqTKC">Build Me Up Buttercup - Mono</a><br>The Foundations</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX"><img src="https://i.scdn.co/image/ab67616d000048513ebc5b9d8942069d3b920550" width="48" height="48" alt="Album artwork for Rich Girl" /></a></td><td><a href="https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX">Rich Girl</a><br>Daryl Hall &amp; John Oates</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od"><img src="https://i.scdn.co/image/ab67616d00004851e16a6534cd5a968a5b725d03" width="48" height="48" alt="Album artwork for Dancing in the Moonlight" /></a></td><td><a href="https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od">Dancing in the Moonlight</a><br>Toploader</td></tr>
+<tr><td><a href="https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV"><img src="https://i.scdn.co/image/ab67616d000048514d1a7a3e5043173883653ffc" width="64" height="64" alt="Album artwork for Sweet Caroline" /></a></td><td><a href="https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV">Sweet Caroline</a><br>Neil Diamond</td></tr>
 </table>
 <!-- SPOTIFY:END -->
