@@ -113,6 +113,10 @@
 ### Listening To
 
 <table>
-<tr><td><a href="https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV"><img src="https://i.scdn.co/image/ab67616d000048514d1a7a3e5043173883653ffc" width="64" height="64" alt="Album artwork for Sweet Caroline" /></a></td><td><a href="https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV">Sweet Caroline</a><br>Neil Diamond</td></tr>
+<tr><td>01</td><td><a href="https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN"><img src="https://i.scdn.co/image/ab67616d000048514bc9bcdbdc9ac34e37d8b6bb" width="48" height="48" alt="Album artwork for My Hero" /></a></td><td><a href="https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN">My Hero</a><br>Foo Fighters</td></tr>
+<tr><td>02</td><td><a href="https://open.spotify.com/track/3ox5lIXRf4r977FsE7JfXs"><img src="https://i.scdn.co/image/ab67616d000048514d4c8b5bcdf1114d19f2f546" width="48" height="48" alt="Album artwork for Stockholm Syndrome" /></a></td><td><a href="https://open.spotify.com/track/3ox5lIXRf4r977FsE7JfXs">Stockholm Syndrome</a><br>Muse</td></tr>
+<tr><td>03</td><td><a href="https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"><img src="https://i.scdn.co/image/ab67616d00004851cab7ae4868e9f9ce6bdfdf43" width="48" height="48" alt="Album artwork for I&#x27;m Not Okay (I Promise)" /></a></td><td><a href="https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd">I&#x27;m Not Okay (I Promise)</a><br>My Chemical Romance</td></tr>
+<tr><td>04</td><td><a href="https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d"><img src="https://i.scdn.co/image/ab67616d00004851532033d0d90736f661c13d35" width="48" height="48" alt="Album artwork for Still into You" /></a></td><td><a href="https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d">Still into You</a><br>Paramore</td></tr>
+<tr><td>05</td><td><a href="https://open.spotify.com/track/0Kt9sF46S7DFKrQOsXqidV"><img src="https://i.scdn.co/image/ab67616d00004851e059074baf87ec49b883e127" width="48" height="48" alt="Album artwork for Blood - End Credits" /></a></td><td><a href="https://open.spotify.com/track/0Kt9sF46S7DFKrQOsXqidV">Blood - End Credits</a><br>My Chemical Romance</td></tr>
 </table>
 <!-- SPOTIFY:END -->
