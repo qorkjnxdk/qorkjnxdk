@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4"><img src="https://i.scdn.co/image/ab67616d000048512df0d98a423025032d0db1f7" width="48" height="48" alt="Album artwork for Tear in My Heart" /></a></td><td><a href="https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4">Tear in My Heart</a><br>Twenty One Pilots</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/2xt2piJx6jlFkjS77YiqpL"><img src="https://i.scdn.co/image/ab67616d000048514d94e1251b7e8c5e247de39c" width="48" height="48" alt="Album artwork for Like a Stone" /></a></td><td><a href="https://open.spotify.com/track/2xt2piJx6jlFkjS77YiqpL">Like a Stone</a><br>Audioslave</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/42T2QQv3xgBlpQxaSP7lnK"><img src="https://i.scdn.co/image/ab67616d00004851a32f2ae4dade83e0d7a294f4" width="48" height="48" alt="Album artwork for One Last Breath" /></a></td><td><a href="https://open.spotify.com/track/42T2QQv3xgBlpQxaSP7lnK">One Last Breath</a><br>Creed</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU"><img src="https://i.scdn.co/image/ab67616d00004851e52a59a28efa4773dd2bfe1b" width="48" height="48" alt="Album artwork for The Chain - 2004 Remaster" /></a></td><td><a href="https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU">The Chain - 2004 Remaster</a><br>Fleetwood Mac</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"><img src="https://i.scdn.co/image/ab67616d00004851cbd2ee7dff77bfb2b5f0af52" width="48" height="48" alt="Album artwork for The Kids Aren&#x27;t Alright" /></a></td><td><a href="https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf">The Kids Aren&#x27;t Alright</a><br>The Offspring</td></tr>
+<tr><td><a href="https://open.spotify.com/track/0faXHILILebCGnJBPU6KJJ"><img src="https://i.scdn.co/image/ab67616d000048515aa75a47afe2804e280bd149" width="64" height="64" alt="Album artwork for The Diary of Jane - Single Version" /></a></td><td><a href="https://open.spotify.com/track/0faXHILILebCGnJBPU6KJJ">The Diary of Jane - Single Version</a><br>Breaking Benjamin</td></tr>
 </table>
 <!-- SPOTIFY:END -->
