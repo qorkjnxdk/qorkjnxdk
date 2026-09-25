@@ -113,6 +113,10 @@
 ### Listening To
 
 <table>
-<tr><td><a href="https://open.spotify.com/track/0faXHILILebCGnJBPU6KJJ"><img src="https://i.scdn.co/image/ab67616d000048515aa75a47afe2804e280bd149" width="64" height="64" alt="Album artwork for The Diary of Jane - Single Version" /></a></td><td><a href="https://open.spotify.com/track/0faXHILILebCGnJBPU6KJJ">The Diary of Jane - Single Version</a><br>Breaking Benjamin</td></tr>
+<tr><td>01</td><td><a href="https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"><img src="https://i.scdn.co/image/ab67616d00004851c8e97cafeb2acb85b21a777e" width="48" height="48" alt="Album artwork for Every Breath You Take" /></a></td><td><a href="https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1">Every Breath You Take</a><br>The Police</td></tr>
+<tr><td>02</td><td><a href="https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"><img src="https://i.scdn.co/image/ab67616d00004851280b72ca76b4734debfc190e" width="48" height="48" alt="Album artwork for Should I Stay or Should I Go - Remastered" /></a></td><td><a href="https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz">Should I Stay or Should I Go - Remastered</a><br>The Clash</td></tr>
+<tr><td>03</td><td><a href="https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91"><img src="https://i.scdn.co/image/ab67616d0000485123290120a609a65e14cfe018" width="48" height="48" alt="Album artwork for Don&#x27;t Stop Believin&#x27; (2022 Remaster)" /></a></td><td><a href="https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91">Don&#x27;t Stop Believin&#x27; (2022 Remaster)</a><br>Journey</td></tr>
+<tr><td>04</td><td><a href="https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"><img src="https://i.scdn.co/image/ab67616d00004851de1af2785a83cc660155a0c4" width="48" height="48" alt="Album artwork for Can&#x27;t Stop" /></a></td><td><a href="https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx">Can&#x27;t Stop</a><br>Red Hot Chili Peppers</td></tr>
+<tr><td>05</td><td><a href="https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"><img src="https://i.scdn.co/image/ab67616d00004851eb11e2abccdca41f39ad3b89" width="48" height="48" alt="Album artwork for I&#x27;m Still Standing" /></a></td><td><a href="https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2">I&#x27;m Still Standing</a><br>Elton John</td></tr>
 </table>
 <!-- SPOTIFY:END -->
