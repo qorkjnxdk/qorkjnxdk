@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"><img src="https://i.scdn.co/image/ab67616d00004851d3ee4bf67c2ac2154006ad72" width="48" height="48" alt="Album artwork for Call Me Maybe" /></a></td><td><a href="https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO">Call Me Maybe</a><br>Carly Rae Jepsen</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w"><img src="https://i.scdn.co/image/ab67616d0000485170dd2ebd8a41b3cab44f0c7b" width="48" height="48" alt="Album artwork for Sugar (feat. Francesco Yates)" /></a></td><td><a href="https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w">Sugar (feat. Francesco Yates)</a><br>Robin Schulz, Francesco Yates</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50"><img src="https://i.scdn.co/image/ab67616d00004851897f73256b9128a9d70eaf66" width="48" height="48" alt="Album artwork for Attention" /></a></td><td><a href="https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50">Attention</a><br>Charlie Puth</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/6YbhspuOar1D9WSSnfe7ds"><img src="https://i.scdn.co/image/ab67616d00004851f8fa110661ccdfb74cbcb447" width="48" height="48" alt="Album artwork for Young, Wild &amp; Free (feat. Bruno Mars)" /></a></td><td><a href="https://open.spotify.com/track/6YbhspuOar1D9WSSnfe7ds">Young, Wild &amp; Free (feat. Bruno Mars)</a><br>Snoop Dogg, Wiz Khalifa, Bruno Mars</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"><img src="https://i.scdn.co/image/ab67616d0000485124a1ac503b55e6eef9a7bb8c" width="48" height="48" alt="Album artwork for Just Give Me a Reason (feat. Nate Ruess)" /></a></td><td><a href="https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e">Just Give Me a Reason (feat. Nate Ruess)</a><br>P!nk, Nate Ruess</td></tr>
+<tr><td><a href="https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"><img src="https://i.scdn.co/image/ab67616d00004851e44963b8bb127552ac761873" width="64" height="64" alt="Album artwork for November Rain" /></a></td><td><a href="https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM">November Rain</a><br>Guns N&#x27; Roses</td></tr>
 </table>
 <!-- SPOTIFY:END -->
