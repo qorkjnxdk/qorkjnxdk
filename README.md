@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/5JGEAz15LkPoOtFHttDtVs"><img src="https://i.scdn.co/image/ab67616d00004851e2e8f804c2cdd5b3815adbf9" width="48" height="48" alt="Album artwork for With Or Without You - Remastered 2007" /></a></td><td><a href="https://open.spotify.com/track/5JGEAz15LkPoOtFHttDtVs">With Or Without You - Remastered 2007</a><br>U2</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n"><img src="https://i.scdn.co/image/ab67616d000048519c72b249fcaa04d074c1dfcd" width="48" height="48" alt="Album artwork for Friday I&#x27;m In Love" /></a></td><td><a href="https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n">Friday I&#x27;m In Love</a><br>The Cure</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/0cuq829zRNq4AEdmDJA4aw"><img src="https://i.scdn.co/image/ab67616d0000485190126a3a12ad644fa6d3221c" width="48" height="48" alt="Album artwork for Two Princes" /></a></td><td><a href="https://open.spotify.com/track/0cuq829zRNq4AEdmDJA4aw">Two Princes</a><br>Spin Doctors</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/4nFNJmjfgBF7jwv2oBC45b"><img src="https://i.scdn.co/image/ab67616d0000485158c4e9c84ece7d31f51636f3" width="48" height="48" alt="Album artwork for Money For Nothing - Remastered 1996" /></a></td><td><a href="https://open.spotify.com/track/4nFNJmjfgBF7jwv2oBC45b">Money For Nothing - Remastered 1996</a><br>Dire Straits</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/6pwhPuPd4JEv4XeJDUpxBt"><img src="https://i.scdn.co/image/ab67616d0000485151b0ded91cc503d5e873562e" width="48" height="48" alt="Album artwork for California Dreamin&#x27; - Mono Version" /></a></td><td><a href="https://open.spotify.com/track/6pwhPuPd4JEv4XeJDUpxBt">California Dreamin&#x27; - Mono Version</a><br>The Mamas &amp; The Papas</td></tr>
+<tr><td><a href="https://open.spotify.com/track/3354J49VpkbZJho7Ztdzpw"><img src="https://i.scdn.co/image/ab67616d000048510c12ef918102b8d303dc9e9b" width="64" height="64" alt="Album artwork for Jumper - 1998 Edit" /></a></td><td><a href="https://open.spotify.com/track/3354J49VpkbZJho7Ztdzpw">Jumper - 1998 Edit</a><br>Third Eye Blind</td></tr>
 </table>
 <!-- SPOTIFY:END -->
