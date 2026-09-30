@@ -113,6 +113,10 @@
 ### Listening To
 
 <table>
-<tr><td><a href="https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"><img src="https://i.scdn.co/image/ab67616d00004851de0cd11d7b31c3bd1fd5983d" width="64" height="64" alt="Album artwork for Paradise" /></a></td><td><a href="https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D">Paradise</a><br>Coldplay</td></tr>
+<tr><td>01</td><td><a href="https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl"><img src="https://i.scdn.co/image/ab67616d00004851aaba065944cd82a6f15c86b6" width="48" height="48" alt="Album artwork for Little Lies - 2017 Remaster" /></a></td><td><a href="https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl">Little Lies - 2017 Remaster</a><br>Fleetwood Mac</td></tr>
+<tr><td>02</td><td><a href="https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5"><img src="https://i.scdn.co/image/ab67616d0000485142a15a4fe15a8a88ab728d5b" width="48" height="48" alt="Album artwork for Don&#x27;t Go Breaking My Heart" /></a></td><td><a href="https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5">Don&#x27;t Go Breaking My Heart</a><br>Elton John, Kiki Dee</td></tr>
+<tr><td>03</td><td><a href="https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA"><img src="https://i.scdn.co/image/ab67616d00004851105ef588df1ef91bfa811f94" width="48" height="48" alt="Album artwork for Hold the Line" /></a></td><td><a href="https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA">Hold the Line</a><br>TOTO</td></tr>
+<tr><td>04</td><td><a href="https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2"><img src="https://i.scdn.co/image/ab67616d00004851dc30583ba717007b00cceb25" width="48" height="48" alt="Album artwork for Here Comes The Sun - Remastered 2009" /></a></td><td><a href="https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2">Here Comes The Sun - Remastered 2009</a><br>The Beatles</td></tr>
+<tr><td>05</td><td><a href="https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR"><img src="https://i.scdn.co/image/ab67616d00004851bfc19627a4a3a604c0a195e5" width="48" height="48" alt="Album artwork for It Ain&#x27;t Over &#x27;Til It&#x27;s Over" /></a></td><td><a href="https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR">It Ain&#x27;t Over &#x27;Til It&#x27;s Over</a><br>Lenny Kravitz</td></tr>
 </table>
 <!-- SPOTIFY:END -->
