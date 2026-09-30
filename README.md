@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"><img src="https://i.scdn.co/image/ab67616d00004851153d79816d853f2694b2cc70" width="48" height="48" alt="Album artwork for Under the Bridge" /></a></td><td><a href="https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0">Under the Bridge</a><br>Red Hot Chili Peppers</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/25CMmGsl22APKhfuj4Tp7j"><img src="https://i.scdn.co/image/ab67616d000048518d148a015881b0f52cb9f99b" width="48" height="48" alt="Album artwork for It&#x27;s Been Awhile" /></a></td><td><a href="https://open.spotify.com/track/25CMmGsl22APKhfuj4Tp7j">It&#x27;s Been Awhile</a><br>Staind</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/63OQupATfueTdZMWTxW03A"><img src="https://i.scdn.co/image/ab67616d00004851c8b444df094279e70d0ed856" width="48" height="48" alt="Album artwork for Karma Police" /></a></td><td><a href="https://open.spotify.com/track/63OQupATfueTdZMWTxW03A">Karma Police</a><br>Radiohead</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"><img src="https://i.scdn.co/image/ab67616d00004851cbd2ee7dff77bfb2b5f0af52" width="48" height="48" alt="Album artwork for The Kids Aren&#x27;t Alright" /></a></td><td><a href="https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf">The Kids Aren&#x27;t Alright</a><br>The Offspring</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy"><img src="https://i.scdn.co/image/ab67616d000048518aa545a0ea869940cce358b5" width="48" height="48" alt="Album artwork for Where Is My Mind? - 2007 Remaster" /></a></td><td><a href="https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy">Where Is My Mind? - 2007 Remaster</a><br>Pixies</td></tr>
+<tr><td><a href="https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"><img src="https://i.scdn.co/image/ab67616d00004851de0cd11d7b31c3bd1fd5983d" width="64" height="64" alt="Album artwork for Paradise" /></a></td><td><a href="https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D">Paradise</a><br>Coldplay</td></tr>
 </table>
 <!-- SPOTIFY:END -->
