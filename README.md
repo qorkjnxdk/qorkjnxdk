@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS"><img src="https://i.scdn.co/image/ab67616d000048516ebd5e789646a833b8f7d4ba" width="48" height="48" alt="Album artwork for Don&#x27;t Speak" /></a></td><td><a href="https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS">Don&#x27;t Speak</a><br>No Doubt</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/2nrG5UtAcqXbYttu7MXP1p"><img src="https://i.scdn.co/image/ab67616d0000485144c0a9843fac69db4d56d14e" width="48" height="48" alt="Album artwork for Under Pressure (feat. David Bowie)" /></a></td><td><a href="https://open.spotify.com/track/2nrG5UtAcqXbYttu7MXP1p">Under Pressure (feat. David Bowie)</a><br>Queen, David Bowie</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi"><img src="https://i.scdn.co/image/ab67616d00004851aa5e4c9da271951ac0b31fa2" width="48" height="48" alt="Album artwork for Down Under" /></a></td><td><a href="https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi">Down Under</a><br>Men At Work</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox"><img src="https://i.scdn.co/image/ab67616d0000485194d08ab63e57b0cae74e8595" width="48" height="48" alt="Album artwork for Californication" /></a></td><td><a href="https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox">Californication</a><br>Red Hot Chili Peppers</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu"><img src="https://i.scdn.co/image/ab67616d00004851aa5e4c9da271951ac0b31fa2" width="48" height="48" alt="Album artwork for Who Can It Be Now?" /></a></td><td><a href="https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu">Who Can It Be Now?</a><br>Men At Work</td></tr>
+<tr><td><a href="https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU"><img src="https://i.scdn.co/image/ab67616d00004851e52a59a28efa4773dd2bfe1b" width="64" height="64" alt="Album artwork for The Chain - 2004 Remaster" /></a></td><td><a href="https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU">The Chain - 2004 Remaster</a><br>Fleetwood Mac</td></tr>
 </table>
 <!-- SPOTIFY:END -->
