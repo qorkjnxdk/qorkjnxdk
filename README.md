@@ -113,6 +113,10 @@
 ### Listening To
 
 <table>
-<tr><td><a href="https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU"><img src="https://i.scdn.co/image/ab67616d00004851e52a59a28efa4773dd2bfe1b" width="64" height="64" alt="Album artwork for The Chain - 2004 Remaster" /></a></td><td><a href="https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU">The Chain - 2004 Remaster</a><br>Fleetwood Mac</td></tr>
+<tr><td>01</td><td><a href="https://open.spotify.com/track/0D3Th2YU14U737O0nSHXT8"><img src="https://i.scdn.co/image/ab67616d0000485156e9c8e4f38808bceb60f1f6" width="48" height="48" alt="Album artwork for There She Goes" /></a></td><td><a href="https://open.spotify.com/track/0D3Th2YU14U737O0nSHXT8">There She Goes</a><br>The La&#x27;s</td></tr>
+<tr><td>02</td><td><a href="https://open.spotify.com/track/0WoFs3EdGOx58yX5BtXvOa"><img src="https://i.scdn.co/image/ab67616d00004851ffaeb2f6c1acc0ed7180929a" width="48" height="48" alt="Album artwork for Your Love" /></a></td><td><a href="https://open.spotify.com/track/0WoFs3EdGOx58yX5BtXvOa">Your Love</a><br>The Outfield</td></tr>
+<tr><td>03</td><td><a href="https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"><img src="https://i.scdn.co/image/ab67616d00004851431ac6e6f393acf475730ec6" width="48" height="48" alt="Album artwork for 1979 - Remastered 2012" /></a></td><td><a href="https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1">1979 - Remastered 2012</a><br>The Smashing Pumpkins</td></tr>
+<tr><td>04</td><td><a href="https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G"><img src="https://i.scdn.co/image/ab67616d000048517d6cd95a046a3c0dacbc7d33" width="48" height="48" alt="Album artwork for Somewhere Only We Know" /></a></td><td><a href="https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G">Somewhere Only We Know</a><br>Keane</td></tr>
+<tr><td>05</td><td><a href="https://open.spotify.com/track/65E62rOSbm7SZbAMYjNTJq"><img src="https://i.scdn.co/image/ab67616d0000485177df2aceaf90f06a20b56b14" width="48" height="48" alt="Album artwork for Pride (In The Name Of Love) - Remastered 2009" /></a></td><td><a href="https://open.spotify.com/track/65E62rOSbm7SZbAMYjNTJq">Pride (In The Name Of Love) - Remastered 2009</a><br>U2</td></tr>
 </table>
 <!-- SPOTIFY:END -->
