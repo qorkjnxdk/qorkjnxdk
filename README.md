@@ -113,6 +113,10 @@
 ### Listening To
 
 <table>
-<tr><td><a href="https://open.spotify.com/track/1V6gIisPpYqgFeWbMLI0bA"><img src="https://i.scdn.co/image/ab67616d00004851aadb13ae608f6af20528409b" width="64" height="64" alt="Album artwork for Heart Attack" /></a></td><td><a href="https://open.spotify.com/track/1V6gIisPpYqgFeWbMLI0bA">Heart Attack</a><br>Demi Lovato</td></tr>
+<tr><td>01</td><td><a href="https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"><img src="https://i.scdn.co/image/ab67616d00004851232711f7d66a1e19e89e28c5" width="48" height="48" alt="Album artwork for 24K Magic" /></a></td><td><a href="https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P">24K Magic</a><br>Bruno Mars</td></tr>
+<tr><td>02</td><td><a href="https://open.spotify.com/track/5T7ZFtCcOgkpjxcuaeZbw0"><img src="https://i.scdn.co/image/ab67616d000048513cf0191cca87a4bc7e34bc4a" width="48" height="48" alt="Album artwork for Best Song Ever" /></a></td><td><a href="https://open.spotify.com/track/5T7ZFtCcOgkpjxcuaeZbw0">Best Song Ever</a><br>One Direction</td></tr>
+<tr><td>03</td><td><a href="https://open.spotify.com/track/1CQ2cMfrmFM1YdfmjENKVE"><img src="https://i.scdn.co/image/ab67616d0000485124dea8a1edf4a5b9a10fb67a" width="48" height="48" alt="Album artwork for She Looks So Perfect" /></a></td><td><a href="https://open.spotify.com/track/1CQ2cMfrmFM1YdfmjENKVE">She Looks So Perfect</a><br>5 Seconds of Summer</td></tr>
+<tr><td>04</td><td><a href="https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"><img src="https://i.scdn.co/image/ab67616d00004851db89b08034de626ebee6823d" width="48" height="48" alt="Album artwork for Basket Case" /></a></td><td><a href="https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s">Basket Case</a><br>Green Day</td></tr>
+<tr><td>05</td><td><a href="https://open.spotify.com/track/3dfpZwSuosIuFqksY0F6gT"><img src="https://i.scdn.co/image/ab67616d0000485159e9e1df35de66e2b9d295cf" width="48" height="48" alt="Album artwork for Sofia the First Main Title Theme - From &quot;Sofia the First&quot;" /></a></td><td><a href="https://open.spotify.com/track/3dfpZwSuosIuFqksY0F6gT">Sofia the First Main Title Theme - From &quot;Sofia the First&quot;</a><br>Cast - Sofia the First, Disney Junior, Sofia</td></tr>
 </table>
 <!-- SPOTIFY:END -->
