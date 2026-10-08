@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/3E7dfMvvCLUddWissuqMwr"><img src="https://i.scdn.co/image/ab67616d000048514ea6653890e297d53e93e3e0" width="48" height="48" alt="Album artwork for Party In The U.S.A." /></a></td><td><a href="https://open.spotify.com/track/3E7dfMvvCLUddWissuqMwr">Party In The U.S.A.</a><br>Miley Cyrus</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"><img src="https://i.scdn.co/image/ab67616d00004851e21cc1db05580b6f2d2a3b6e" width="48" height="48" alt="Album artwork for Viva La Vida" /></a></td><td><a href="https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b">Viva La Vida</a><br>Coldplay</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig"><img src="https://i.scdn.co/image/ab67616d000048512780cc9f7796e04f367e394d" width="48" height="48" alt="Album artwork for Billionaire (feat. Bruno Mars)" /></a></td><td><a href="https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig">Billionaire (feat. Bruno Mars)</a><br>Travie McCoy, Bruno Mars</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"><img src="https://i.scdn.co/image/ab67616d000048517039c1c841fc3dfa2ad8a0d8" width="48" height="48" alt="Album artwork for Just the Way You Are" /></a></td><td><a href="https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ">Just the Way You Are</a><br>Bruno Mars</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey"><img src="https://i.scdn.co/image/ab67616d00004851c6ba98fd3f3b396a6c6f7091" width="48" height="48" alt="Album artwork for What Goes Around.../...Comes Around (Interlude)" /></a></td><td><a href="https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey">What Goes Around.../...Comes Around (Interlude)</a><br>Justin Timberlake</td></tr>
+<tr><td><a href="https://open.spotify.com/track/3m7V717IKZqZLW5qUIOxdD"><img src="https://i.scdn.co/image/ab67616d000048516e3d3c964df32136fb1cd594" width="64" height="64" alt="Album artwork for Hey Jude - Remastered 2009" /></a></td><td><a href="https://open.spotify.com/track/3m7V717IKZqZLW5qUIOxdD">Hey Jude - Remastered 2009</a><br>The Beatles</td></tr>
 </table>
 <!-- SPOTIFY:END -->
