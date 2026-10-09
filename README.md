@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"><img src="https://i.scdn.co/image/ab67616d0000485121ebf49b3292c3f0f575f0f5" width="48" height="48" alt="Album artwork for Paradise City" /></a></td><td><a href="https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5">Paradise City</a><br>Guns N&#x27; Roses</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"><img src="https://i.scdn.co/image/ab67616d00004851ff191d7fbdb5a13eaf84132b" width="48" height="48" alt="Album artwork for You Shook Me All Night Long" /></a></td><td><a href="https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo">You Shook Me All Night Long</a><br>AC/DC</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1"><img src="https://i.scdn.co/image/ab67616d00004851828e52cfb7bf22869349799e" width="48" height="48" alt="Album artwork for Wish You Were Here" /></a></td><td><a href="https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1">Wish You Were Here</a><br>Pink Floyd</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"><img src="https://i.scdn.co/image/ab67616d0000485192d0747a634fcc351c6ac3c2" width="48" height="48" alt="Album artwork for Mamma Mia" /></a></td><td><a href="https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91">Mamma Mia</a><br>ABBA</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD"><img src="https://i.scdn.co/image/ab67616d000048518b2238ebc2b233ba73b8c4ca" width="48" height="48" alt="Album artwork for Boogie Wonderland (with The Emotions)" /></a></td><td><a href="https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD">Boogie Wonderland (with The Emotions)</a><br>Earth, Wind &amp; Fire, The Emotions</td></tr>
+<tr><td><a href="https://open.spotify.com/track/7MXlTgQeo3IVlMpLnZuhxc"><img src="https://i.scdn.co/image/ab67616d00004851407bd04707c463bbb3410737" width="64" height="64" alt="Album artwork for It&#x27;s Time" /></a></td><td><a href="https://open.spotify.com/track/7MXlTgQeo3IVlMpLnZuhxc">It&#x27;s Time</a><br>Imagine Dragons</td></tr>
 </table>
 <!-- SPOTIFY:END -->
