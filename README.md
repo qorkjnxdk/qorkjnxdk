@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/1NHWG8zxSEypSRF3UufrnO"><img src="https://i.scdn.co/image/ab67616d000048516c03b757ece416e014feef5e" width="48" height="48" alt="Album artwork for Don&#x27;t Stop Me Now" /></a></td><td><a href="https://open.spotify.com/track/1NHWG8zxSEypSRF3UufrnO">Don&#x27;t Stop Me Now</a><br>Queen</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI"><img src="https://i.scdn.co/image/ab67616d00004851128450651c9f0442780d8eb8" width="48" height="48" alt="Album artwork for Free Bird" /></a></td><td><a href="https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI">Free Bird</a><br>Lynyrd Skynyrd</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/72zZfHPYx43shcP3eKkYi5"><img src="https://i.scdn.co/image/ab67616d0000485101fe3e94ab830a543d8f6a93" width="48" height="48" alt="Album artwork for Are You Gonna Be My Girl" /></a></td><td><a href="https://open.spotify.com/track/72zZfHPYx43shcP3eKkYi5">Are You Gonna Be My Girl</a><br>Jet</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU"><img src="https://i.scdn.co/image/ab67616d00004851e52a59a28efa4773dd2bfe1b" width="48" height="48" alt="Album artwork for The Chain - 2004 Remaster" /></a></td><td><a href="https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU">The Chain - 2004 Remaster</a><br>Fleetwood Mac</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/3DwQ7AH3xGD9h65ezslm6q"><img src="https://i.scdn.co/image/ab67616d00004851c1a13209dfe146aef3296e34" width="48" height="48" alt="Album artwork for Enter Sandman - Remastered 2021" /></a></td><td><a href="https://open.spotify.com/track/3DwQ7AH3xGD9h65ezslm6q">Enter Sandman - Remastered 2021</a><br>Metallica</td></tr>
+<tr><td><a href="https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"><img src="https://i.scdn.co/image/ab67616d00004851280b72ca76b4734debfc190e" width="64" height="64" alt="Album artwork for Should I Stay or Should I Go - Remastered" /></a></td><td><a href="https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz">Should I Stay or Should I Go - Remastered</a><br>The Clash</td></tr>
 </table>
 <!-- SPOTIFY:END -->
