@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/1CnPYaKxTVb4LWOtiGOm0m"><img src="https://i.scdn.co/image/ab67616d00004851a01c1fddc334c0bd15e4452d" width="48" height="48" alt="Album artwork for All Time Low" /></a></td><td><a href="https://open.spotify.com/track/1CnPYaKxTVb4LWOtiGOm0m">All Time Low</a><br>Jon Bellion</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/0l4DTppOxy7NUaEcwXuOb6"><img src="https://i.scdn.co/image/ab67616d000048510f0039968cd918767d3f1488" width="48" height="48" alt="Album artwork for Animal" /></a></td><td><a href="https://open.spotify.com/track/0l4DTppOxy7NUaEcwXuOb6">Animal</a><br>Neon Trees</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"><img src="https://i.scdn.co/image/ab67616d00004851232711f7d66a1e19e89e28c5" width="48" height="48" alt="Album artwork for 24K Magic" /></a></td><td><a href="https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P">24K Magic</a><br>Bruno Mars</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/5BXg13zwPCtGMxBHLqU8fi"><img src="https://i.scdn.co/image/ab67616d00004851fc8633e22a7dba6aab817bff" width="48" height="48" alt="Album artwork for The Man Who Never Lied" /></a></td><td><a href="https://open.spotify.com/track/5BXg13zwPCtGMxBHLqU8fi">The Man Who Never Lied</a><br>Maroon 5</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN"><img src="https://i.scdn.co/image/ab67616d000048514a57b8b911a372d77dfc1ba7" width="48" height="48" alt="Album artwork for Jessie&#x27;s Girl" /></a></td><td><a href="https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN">Jessie&#x27;s Girl</a><br>Rick Springfield</td></tr>
+<tr><td><a href="https://open.spotify.com/track/5rLi8B8qgk6qThwRnKHW2P"><img src="https://i.scdn.co/image/ab67616d00004851d8f40ad88ed77a939b716d19" width="64" height="64" alt="Album artwork for The Ballad of Mona Lisa" /></a></td><td><a href="https://open.spotify.com/track/5rLi8B8qgk6qThwRnKHW2P">The Ballad of Mona Lisa</a><br>Panic! At The Disco</td></tr>
 </table>
 <!-- SPOTIFY:END -->
