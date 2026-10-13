@@ -113,6 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td><a href="https://open.spotify.com/track/5rLi8B8qgk6qThwRnKHW2P"><img src="https://i.scdn.co/image/ab67616d00004851d8f40ad88ed77a939b716d19" width="64" height="64" alt="Album artwork for The Ballad of Mona Lisa" /></a></td><td><a href="https://open.spotify.com/track/5rLi8B8qgk6qThwRnKHW2P">The Ballad of Mona Lisa</a><br>Panic! At The Disco</td></tr>
+<tr><td><a href="https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"><img src="https://i.scdn.co/image/ab67616d00004851abdf7749aeb5229dbf305f03" width="64" height="64" alt="Album artwork for Kids" /></a></td><td><a href="https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU">Kids</a><br>MGMT</td></tr>
 </table>
 <!-- SPOTIFY:END -->
