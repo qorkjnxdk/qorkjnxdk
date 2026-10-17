@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/6C09ToLEI6k4HOaXBRW49m"><img src="https://i.scdn.co/image/ab67616d00004851ae37147b85589c58582ee681" width="48" height="48" alt="Album artwork for More Than You Know" /></a></td><td><a href="https://open.spotify.com/track/6C09ToLEI6k4HOaXBRW49m">More Than You Know</a><br>Axwell /\ Ingrosso</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7"><img src="https://i.scdn.co/image/ab67616d000048517247979b8bc6027bf97043ef" width="48" height="48" alt="Album artwork for Stole the Show" /></a></td><td><a href="https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7">Stole the Show</a><br>Kygo, Parson James</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/5TbzAWWc5eJaANpA9kfGCd"><img src="https://i.scdn.co/image/ab67616d00004851b38d10a0f9eabec693d8f96e" width="48" height="48" alt="Album artwork for Love Me Again" /></a></td><td><a href="https://open.spotify.com/track/5TbzAWWc5eJaANpA9kfGCd">Love Me Again</a><br>John Newman</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"><img src="https://i.scdn.co/image/ab67616d000048511376b4b16f4bfcba02dc571b" width="48" height="48" alt="Album artwork for Treat You Better" /></a></td><td><a href="https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd">Treat You Better</a><br>Shawn Mendes</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9"><img src="https://i.scdn.co/image/ab67616d00004851048012a99d7a62440392f529" width="48" height="48" alt="Album artwork for This Is What It Feels Like" /></a></td><td><a href="https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9">This Is What It Feels Like</a><br>Armin van Buuren, Trevor Guthrie</td></tr>
+<tr><td><a href="https://open.spotify.com/track/0NwGC0v03ysCYINtg6ns58"><img src="https://i.scdn.co/image/ab67616d000048510b04da4f224b51ff86e0a481" width="64" height="64" alt="Album artwork for Better Than Revenge (Taylor&#x27;s Version)" /></a></td><td><a href="https://open.spotify.com/track/0NwGC0v03ysCYINtg6ns58">Better Than Revenge (Taylor&#x27;s Version)</a><br>Taylor Swift</td></tr>
 </table>
 <!-- SPOTIFY:END -->
