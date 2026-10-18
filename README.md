@@ -113,6 +113,10 @@
 ### Listening To
 
 <table>
-<tr><td><a href="https://open.spotify.com/track/0NwGC0v03ysCYINtg6ns58"><img src="https://i.scdn.co/image/ab67616d000048510b04da4f224b51ff86e0a481" width="64" height="64" alt="Album artwork for Better Than Revenge (Taylor&#x27;s Version)" /></a></td><td><a href="https://open.spotify.com/track/0NwGC0v03ysCYINtg6ns58">Better Than Revenge (Taylor&#x27;s Version)</a><br>Taylor Swift</td></tr>
+<tr><td>01</td><td><a href="https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY"><img src="https://i.scdn.co/image/ab67616d0000485194f8b5f85bad2c8affe6cc7d" width="48" height="48" alt="Album artwork for The Reason" /></a></td><td><a href="https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY">The Reason</a><br>Hoobastank</td></tr>
+<tr><td>02</td><td><a href="https://open.spotify.com/track/7tCHpjktA50ihtkLz6bAnn"><img src="https://i.scdn.co/image/ab67616d00004851ce6b979ca98da4c27157dc17" width="48" height="48" alt="Album artwork for Ain&#x27;t No Rest For The Wicked - Original Version" /></a></td><td><a href="https://open.spotify.com/track/7tCHpjktA50ihtkLz6bAnn">Ain&#x27;t No Rest For The Wicked - Original Version</a><br>Cage The Elephant</td></tr>
+<tr><td>03</td><td><a href="https://open.spotify.com/track/7i9763l5SSfOnqZ35VOcfy"><img src="https://i.scdn.co/image/ab67616d000048512df0d98a423025032d0db1f7" width="48" height="48" alt="Album artwork for Heavydirtysoul" /></a></td><td><a href="https://open.spotify.com/track/7i9763l5SSfOnqZ35VOcfy">Heavydirtysoul</a><br>Twenty One Pilots</td></tr>
+<tr><td>04</td><td><a href="https://open.spotify.com/track/1WYrTfvKjQYaYfVziGG1ET"><img src="https://i.scdn.co/image/ab67616d00004851753dbf92830094154a21b193" width="48" height="48" alt="Album artwork for Linger - Remastered 2026" /></a></td><td><a href="https://open.spotify.com/track/1WYrTfvKjQYaYfVziGG1ET">Linger - Remastered 2026</a><br>The Cranberries</td></tr>
+<tr><td>05</td><td><a href="https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"><img src="https://i.scdn.co/image/ab67616d000048516e88eb6508fd94cd1b745ce2" width="48" height="48" alt="Album artwork for Hey Ya!" /></a></td><td><a href="https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM">Hey Ya!</a><br>Outkast</td></tr>
 </table>
 <!-- SPOTIFY:END -->
