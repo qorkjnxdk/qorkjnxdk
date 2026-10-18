@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY"><img src="https://i.scdn.co/image/ab67616d0000485194f8b5f85bad2c8affe6cc7d" width="48" height="48" alt="Album artwork for The Reason" /></a></td><td><a href="https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY">The Reason</a><br>Hoobastank</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/6pwhPuPd4JEv4XeJDUpxBt"><img src="https://i.scdn.co/image/ab67616d0000485151b0ded91cc503d5e873562e" width="48" height="48" alt="Album artwork for California Dreamin&#x27; - Mono Version" /></a></td><td><a href="https://open.spotify.com/track/6pwhPuPd4JEv4XeJDUpxBt">California Dreamin&#x27; - Mono Version</a><br>The Mamas &amp; The Papas</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/7tCHpjktA50ihtkLz6bAnn"><img src="https://i.scdn.co/image/ab67616d00004851ce6b979ca98da4c27157dc17" width="48" height="48" alt="Album artwork for Ain&#x27;t No Rest For The Wicked - Original Version" /></a></td><td><a href="https://open.spotify.com/track/7tCHpjktA50ihtkLz6bAnn">Ain&#x27;t No Rest For The Wicked - Original Version</a><br>Cage The Elephant</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/7i9763l5SSfOnqZ35VOcfy"><img src="https://i.scdn.co/image/ab67616d000048512df0d98a423025032d0db1f7" width="48" height="48" alt="Album artwork for Heavydirtysoul" /></a></td><td><a href="https://open.spotify.com/track/7i9763l5SSfOnqZ35VOcfy">Heavydirtysoul</a><br>Twenty One Pilots</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/1WYrTfvKjQYaYfVziGG1ET"><img src="https://i.scdn.co/image/ab67616d00004851753dbf92830094154a21b193" width="48" height="48" alt="Album artwork for Linger - Remastered 2026" /></a></td><td><a href="https://open.spotify.com/track/1WYrTfvKjQYaYfVziGG1ET">Linger - Remastered 2026</a><br>The Cranberries</td></tr>
+<tr><td><a href="https://open.spotify.com/track/7jmHyHMEqm9MJWiMAneF05"><img src="https://i.scdn.co/image/ab67616d00004851492d1fbc99ce045b8dd63244" width="64" height="64" alt="Album artwork for Stand By Me" /></a></td><td><a href="https://open.spotify.com/track/7jmHyHMEqm9MJWiMAneF05">Stand By Me</a><br>Ben E. King</td></tr>
 </table>
 <!-- SPOTIFY:END -->
