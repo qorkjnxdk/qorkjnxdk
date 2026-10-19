@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"><img src="https://i.scdn.co/image/ab67616d0000485184bb2b1e87d5ba0bac8871a2" width="48" height="48" alt="Album artwork for Torn" /></a></td><td><a href="https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU">Torn</a><br>Natalie Imbruglia</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/5UCPOJs8VJARoIX6acKRuJ"><img src="https://i.scdn.co/image/ab67616d0000485179d8deb8e9226a33f4e2699a" width="48" height="48" alt="Album artwork for The Rhythm Of The Night" /></a></td><td><a href="https://open.spotify.com/track/5UCPOJs8VJARoIX6acKRuJ">The Rhythm Of The Night</a><br>Corona</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF"><img src="https://i.scdn.co/image/ab67616d00004851dfdedd4553b40bbaab342dae" width="48" height="48" alt="Album artwork for You Get What You Give" /></a></td><td><a href="https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF">You Get What You Give</a><br>New Radicals</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/05yiiw2F3XXoighyveZTDs"><img src="https://i.scdn.co/image/ab67616d000048511df9bf19642031e213d0276e" width="48" height="48" alt="Album artwork for Heaven Is a Place on Earth - Promo 7&quot; Edit" /></a></td><td><a href="https://open.spotify.com/track/05yiiw2F3XXoighyveZTDs">Heaven Is a Place on Earth - Promo 7&quot; Edit</a><br>Belinda Carlisle</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX"><img src="https://i.scdn.co/image/ab67616d00004851983bb3e3f0c66b9b89a832fa" width="48" height="48" alt="Album artwork for Video Killed The Radio Star" /></a></td><td><a href="https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX">Video Killed The Radio Star</a><br>The Buggles</td></tr>
+<tr><td><a href="https://open.spotify.com/track/1fLlRApgzxWweF1JTf8yM5"><img src="https://i.scdn.co/image/ab67616d000048516e996745f2c7b8036abef213" width="64" height="64" alt="Album artwork for Given Up" /></a></td><td><a href="https://open.spotify.com/track/1fLlRApgzxWweF1JTf8yM5">Given Up</a><br>Linkin Park</td></tr>
 </table>
 <!-- SPOTIFY:END -->
