@@ -113,6 +113,10 @@
 ### Listening To
 
 <table>
-<tr><td><a href="https://open.spotify.com/track/1fLlRApgzxWweF1JTf8yM5"><img src="https://i.scdn.co/image/ab67616d000048516e996745f2c7b8036abef213" width="64" height="64" alt="Album artwork for Given Up" /></a></td><td><a href="https://open.spotify.com/track/1fLlRApgzxWweF1JTf8yM5">Given Up</a><br>Linkin Park</td></tr>
+<tr><td>01</td><td><a href="https://open.spotify.com/track/5pugSJ7chgFcXiUBgrZSYd"><img src="https://i.scdn.co/image/ab67616d000048510436e7b2f1dc434862bb8354" width="48" height="48" alt="Album artwork for Wake Me Up When September Ends" /></a></td><td><a href="https://open.spotify.com/track/5pugSJ7chgFcXiUBgrZSYd">Wake Me Up When September Ends</a><br>Green Day</td></tr>
+<tr><td>02</td><td><a href="https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw"><img src="https://i.scdn.co/image/ab67616d000048511be40e44db112e123e5e8b51" width="48" height="48" alt="Album artwork for Carry on Wayward Son" /></a></td><td><a href="https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw">Carry on Wayward Son</a><br>Kansas</td></tr>
+<tr><td>03</td><td><a href="https://open.spotify.com/track/3MRQ3CSjoiV1HFil8ykM9M"><img src="https://i.scdn.co/image/ab67616d00004851f8996a3f97e80d9d700635c3" width="48" height="48" alt="Album artwork for I Still Haven&#x27;t Found What I&#x27;m Looking For - Remastered 2007" /></a></td><td><a href="https://open.spotify.com/track/3MRQ3CSjoiV1HFil8ykM9M">I Still Haven&#x27;t Found What I&#x27;m Looking For - Remastered 2007</a><br>U2</td></tr>
+<tr><td>04</td><td><a href="https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"><img src="https://i.scdn.co/image/ab67616d00004851de1af2785a83cc660155a0c4" width="48" height="48" alt="Album artwork for Can&#x27;t Stop" /></a></td><td><a href="https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx">Can&#x27;t Stop</a><br>Red Hot Chili Peppers</td></tr>
+<tr><td>05</td><td><a href="https://open.spotify.com/track/4RAOI1etsgbh5NP3T5R8rN"><img src="https://i.scdn.co/image/ab67616d00004851663b6ce496144fa5c3670ac0" width="48" height="48" alt="Album artwork for I Don&#x27;t Love You" /></a></td><td><a href="https://open.spotify.com/track/4RAOI1etsgbh5NP3T5R8rN">I Don&#x27;t Love You</a><br>My Chemical Romance</td></tr>
 </table>
 <!-- SPOTIFY:END -->
