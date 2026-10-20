@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/6FBPOJLxUZEair6x4kLDhf"><img src="https://i.scdn.co/image/ab67616d00004851db216ca805faf5fe35df4ee6" width="48" height="48" alt="Album artwork for Any Colour You Like" /></a></td><td><a href="https://open.spotify.com/track/6FBPOJLxUZEair6x4kLDhf">Any Colour You Like</a><br>Pink Floyd</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/1TKTiKp3zbNgrBH2IwSwIx"><img src="https://i.scdn.co/image/ab67616d00004851db216ca805faf5fe35df4ee6" width="48" height="48" alt="Album artwork for Us and Them" /></a></td><td><a href="https://open.spotify.com/track/1TKTiKp3zbNgrBH2IwSwIx">Us and Them</a><br>Pink Floyd</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/0vFOzaXqZHahrZp6enQwQb"><img src="https://i.scdn.co/image/ab67616d00004851db216ca805faf5fe35df4ee6" width="48" height="48" alt="Album artwork for Money" /></a></td><td><a href="https://open.spotify.com/track/0vFOzaXqZHahrZp6enQwQb">Money</a><br>Pink Floyd</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/2TjdnqlpwOjhijHCwHCP2d"><img src="https://i.scdn.co/image/ab67616d00004851db216ca805faf5fe35df4ee6" width="48" height="48" alt="Album artwork for The Great Gig in the Sky" /></a></td><td><a href="https://open.spotify.com/track/2TjdnqlpwOjhijHCwHCP2d">The Great Gig in the Sky</a><br>Pink Floyd</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/3TO7bbrUKrOSPGRTB5MeCz"><img src="https://i.scdn.co/image/ab67616d00004851db216ca805faf5fe35df4ee6" width="48" height="48" alt="Album artwork for Time" /></a></td><td><a href="https://open.spotify.com/track/3TO7bbrUKrOSPGRTB5MeCz">Time</a><br>Pink Floyd</td></tr>
+<tr><td><a href="https://open.spotify.com/track/2JiDi0qAXsPwhPqA2qaKGt"><img src="https://i.scdn.co/image/ab67616d00004851fdab4a163ab9f6db72c952ee" width="64" height="64" alt="Album artwork for Bohemian Rhapsody" /></a></td><td><a href="https://open.spotify.com/track/2JiDi0qAXsPwhPqA2qaKGt">Bohemian Rhapsody</a><br>Queen</td></tr>
 </table>
 <!-- SPOTIFY:END -->
