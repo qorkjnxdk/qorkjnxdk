@@ -113,6 +113,10 @@
 ### Listening To
 
 <table>
-<tr><td><a href="https://open.spotify.com/track/2JiDi0qAXsPwhPqA2qaKGt"><img src="https://i.scdn.co/image/ab67616d00004851fdab4a163ab9f6db72c952ee" width="64" height="64" alt="Album artwork for Bohemian Rhapsody" /></a></td><td><a href="https://open.spotify.com/track/2JiDi0qAXsPwhPqA2qaKGt">Bohemian Rhapsody</a><br>Queen</td></tr>
+<tr><td>01</td><td><a href="https://open.spotify.com/track/0ev91hkSfD8mR15VBiAHts"><img src="https://i.scdn.co/image/ab67616d00004851b49cefa2e0f92604950a0a63" width="48" height="48" alt="Album artwork for House of the Rising Sun" /></a></td><td><a href="https://open.spotify.com/track/0ev91hkSfD8mR15VBiAHts">House of the Rising Sun</a><br>The Animals</td></tr>
+<tr><td>02</td><td><a href="https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"><img src="https://i.scdn.co/image/ab67616d000048512043dd3544a339547d04b436" width="48" height="48" alt="Album artwork for Roxanne" /></a></td><td><a href="https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo">Roxanne</a><br>The Police</td></tr>
+<tr><td>03</td><td><a href="https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1"><img src="https://i.scdn.co/image/ab67616d00004851828e52cfb7bf22869349799e" width="48" height="48" alt="Album artwork for Wish You Were Here" /></a></td><td><a href="https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1">Wish You Were Here</a><br>Pink Floyd</td></tr>
+<tr><td>04</td><td><a href="https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"><img src="https://i.scdn.co/image/ab67616d00004851d03ab2da904d8251a87bbc31" width="48" height="48" alt="Album artwork for Tiny Dancer" /></a></td><td><a href="https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO">Tiny Dancer</a><br>Elton John</td></tr>
+<tr><td>05</td><td><a href="https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI"><img src="https://i.scdn.co/image/ab67616d0000485159f0f56a7cd13526b5b4204c" width="48" height="48" alt="Album artwork for Dust in the Wind" /></a></td><td><a href="https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI">Dust in the Wind</a><br>Kansas</td></tr>
 </table>
 <!-- SPOTIFY:END -->
