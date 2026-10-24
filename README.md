@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/6gZVQvQZOFpzIy3HblJ20F"><img src="https://i.scdn.co/image/ab67616d000048513cf83c82a8e976d7b51e2d00" width="48" height="48" alt="Album artwork for Man in the Box" /></a></td><td><a href="https://open.spotify.com/track/6gZVQvQZOFpzIy3HblJ20F">Man in the Box</a><br>Alice In Chains</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/0ipF82OetCpwOumLLLBa4z"><img src="https://i.scdn.co/image/ab67616d00004851883c54c541f95644f7ae2ba3" width="48" height="48" alt="Album artwork for The Sharpest Lives" /></a></td><td><a href="https://open.spotify.com/track/0ipF82OetCpwOumLLLBa4z">The Sharpest Lives</a><br>My Chemical Romance</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/2H3pA6PfAyB8wnNYfxFaTv"><img src="https://i.scdn.co/image/ab67616d00004851883c54c541f95644f7ae2ba3" width="48" height="48" alt="Album artwork for This Is How I Disappear" /></a></td><td><a href="https://open.spotify.com/track/2H3pA6PfAyB8wnNYfxFaTv">This Is How I Disappear</a><br>My Chemical Romance</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/1Em47th7cwzwyrL1lhkbV5"><img src="https://i.scdn.co/image/ab67616d00004851883c54c541f95644f7ae2ba3" width="48" height="48" alt="Album artwork for Dead!" /></a></td><td><a href="https://open.spotify.com/track/1Em47th7cwzwyrL1lhkbV5">Dead!</a><br>My Chemical Romance</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX"><img src="https://i.scdn.co/image/ab67616d000048519173e50e99bdea2400222f02" width="48" height="48" alt="Album artwork for Ain&#x27;t No Mountain High Enough" /></a></td><td><a href="https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX">Ain&#x27;t No Mountain High Enough</a><br>Marvin Gaye, Tammi Terrell</td></tr>
+<tr><td><a href="https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW"><img src="https://i.scdn.co/image/ab67616d00004851f1157b7dcd21bae0c2c75d89" width="64" height="64" alt="Album artwork for Fly Away" /></a></td><td><a href="https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW">Fly Away</a><br>Lenny Kravitz</td></tr>
 </table>
 <!-- SPOTIFY:END -->
