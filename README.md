@@ -113,6 +113,10 @@
 ### Listening To
 
 <table>
-<tr><td><a href="https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW"><img src="https://i.scdn.co/image/ab67616d00004851f1157b7dcd21bae0c2c75d89" width="64" height="64" alt="Album artwork for Fly Away" /></a></td><td><a href="https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW">Fly Away</a><br>Lenny Kravitz</td></tr>
+<tr><td>01</td><td><a href="https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN"><img src="https://i.scdn.co/image/ab67616d000048513f8b8a9c71b2bd2f3019940b" width="48" height="48" alt="Album artwork for Sign of the Times" /></a></td><td><a href="https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN">Sign of the Times</a><br>Harry Styles</td></tr>
+<tr><td>02</td><td><a href="https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"><img src="https://i.scdn.co/image/ab67616d00004851de09e02aa7febf30b7c02d82" width="48" height="48" alt="Album artwork for The Scientist" /></a></td><td><a href="https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle">The Scientist</a><br>Coldplay</td></tr>
+<tr><td>03</td><td><a href="https://open.spotify.com/track/3354J49VpkbZJho7Ztdzpw"><img src="https://i.scdn.co/image/ab67616d000048510c12ef918102b8d303dc9e9b" width="48" height="48" alt="Album artwork for Jumper - 1998 Edit" /></a></td><td><a href="https://open.spotify.com/track/3354J49VpkbZJho7Ztdzpw">Jumper - 1998 Edit</a><br>Third Eye Blind</td></tr>
+<tr><td>04</td><td><a href="https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"><img src="https://i.scdn.co/image/ab67616d000048515f1f51d14e8bea89484ecd1b" width="48" height="48" alt="Album artwork for Numb" /></a></td><td><a href="https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h">Numb</a><br>Linkin Park</td></tr>
+<tr><td>05</td><td><a href="https://open.spotify.com/track/05tlUh0E6IFks9sCQguQKN"><img src="https://i.scdn.co/image/ab67616d00004851bad7e941f557e06019b87fd4" width="48" height="48" alt="Album artwork for Rockstar - 2020 Remaster" /></a></td><td><a href="https://open.spotify.com/track/05tlUh0E6IFks9sCQguQKN">Rockstar - 2020 Remaster</a><br>Nickelback</td></tr>
 </table>
 <!-- SPOTIFY:END -->
