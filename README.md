@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/73ZstMbTmOYuT7QtIdg5G1"><img src="https://i.scdn.co/image/ab67616d000048511e05cf794b56044cc66362f4" width="48" height="48" alt="Album artwork for WE" /></a></td><td><a href="https://open.spotify.com/track/73ZstMbTmOYuT7QtIdg5G1">WE</a><br>DAY6 (Even of Day)</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/16BS342F89MDqouSxgLaUK"><img src="https://i.scdn.co/image/ab67616d000048512d56768bc14df3b0b3982efd" width="48" height="48" alt="Album artwork for 무제(無題) (Untitled, 2014)" /></a></td><td><a href="https://open.spotify.com/track/16BS342F89MDqouSxgLaUK">무제(無題) (Untitled, 2014)</a><br>G-DRAGON</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/3h46bzn7XYQteB2pLB6eIj"><img src="https://i.scdn.co/image/ab67616d000048513d6d6ca7f761c2df58cb6760" width="48" height="48" alt="Album artwork for I like you" /></a></td><td><a href="https://open.spotify.com/track/3h46bzn7XYQteB2pLB6eIj">I like you</a><br>DAY6</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/7rfyK5CqNvDHC4EtZ0hfuE"><img src="https://i.scdn.co/image/ab67616d000048511e05cf794b56044cc66362f4" width="48" height="48" alt="Album artwork for from the ending of a tragedy" /></a></td><td><a href="https://open.spotify.com/track/7rfyK5CqNvDHC4EtZ0hfuE">from the ending of a tragedy</a><br>DAY6 (Even of Day)</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/6uBWMoDZITSfEicLPuMW8l"><img src="https://i.scdn.co/image/ab67616d000048511e05cf794b56044cc66362f4" width="48" height="48" alt="Album artwork for WALK" /></a></td><td><a href="https://open.spotify.com/track/6uBWMoDZITSfEicLPuMW8l">WALK</a><br>DAY6 (Even of Day)</td></tr>
+<tr><td><a href="https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"><img src="https://i.scdn.co/image/ab67616d000048517b40b2abdbcb8520874f29ed" width="64" height="64" alt="Album artwork for My Own Worst Enemy" /></a></td><td><a href="https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z">My Own Worst Enemy</a><br>Lit</td></tr>
 </table>
 <!-- SPOTIFY:END -->
