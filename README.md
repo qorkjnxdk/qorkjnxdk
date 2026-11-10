@@ -113,6 +113,10 @@
 ### Listening To
 
 <table>
-<tr><td><a href="https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"><img src="https://i.scdn.co/image/ab67616d000048517b40b2abdbcb8520874f29ed" width="64" height="64" alt="Album artwork for My Own Worst Enemy" /></a></td><td><a href="https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z">My Own Worst Enemy</a><br>Lit</td></tr>
+<tr><td>01</td><td><a href="https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"><img src="https://i.scdn.co/image/ab67616d000048519293c743fa542094336c5e12" width="48" height="48" alt="Album artwork for High and Dry" /></a></td><td><a href="https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf">High and Dry</a><br>Radiohead</td></tr>
+<tr><td>02</td><td><a href="https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ"><img src="https://i.scdn.co/image/ab67616d0000485146b017e0c96e4186e82df085" width="48" height="48" alt="Album artwork for This Charming Man - 2011 Remaster" /></a></td><td><a href="https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ">This Charming Man - 2011 Remaster</a><br>The Smiths</td></tr>
+<tr><td>03</td><td><a href="https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"><img src="https://i.scdn.co/image/ab67616d00004851e44963b8bb127552ac761873" width="48" height="48" alt="Album artwork for November Rain" /></a></td><td><a href="https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM">November Rain</a><br>Guns N&#x27; Roses</td></tr>
+<tr><td>04</td><td><a href="https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb"><img src="https://i.scdn.co/image/ab67616d00004851c9b31b01e4d81f8289e49574" width="48" height="48" alt="Album artwork for Back to the Old House - 2011 Remaster" /></a></td><td><a href="https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb">Back to the Old House - 2011 Remaster</a><br>The Smiths</td></tr>
+<tr><td>05</td><td><a href="https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"><img src="https://i.scdn.co/image/ab67616d00004851da4f6706ae0f2501c61ce776" width="48" height="48" alt="Album artwork for Good Riddance (Time of Your Life)" /></a></td><td><a href="https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ">Good Riddance (Time of Your Life)</a><br>Green Day</td></tr>
 </table>
 <!-- SPOTIFY:END -->
