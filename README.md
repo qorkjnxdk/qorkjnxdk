@@ -113,6 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td><a href="https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH"><img src="https://i.scdn.co/image/ab67616d000048515e145eb24e282b9554501a27" width="64" height="64" alt="Album artwork for Out of My League" /></a></td><td><a href="https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH">Out of My League</a><br>Fitz and The Tantrums</td></tr>
+<tr><td><a href="https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"><img src="https://i.scdn.co/image/ab67616d000048519a9b1cc067e4460da04adce2" width="64" height="64" alt="Album artwork for Thunderstruck" /></a></td><td><a href="https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj">Thunderstruck</a><br>AC/DC</td></tr>
 </table>
 <!-- SPOTIFY:END -->
