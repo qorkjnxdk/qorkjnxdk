@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/1LmRAxdZUEM9xc2wNivy1y"><img src="https://i.scdn.co/image/ab67616d000048515cf234eeb7a2edf44bf64a46" width="48" height="48" alt="Album artwork for less" /></a></td><td><a href="https://open.spotify.com/track/1LmRAxdZUEM9xc2wNivy1y">less</a><br>Olivia Rodrigo</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"><img src="https://i.scdn.co/image/ab67616d00004851a91c10fe9472d9bd89802e5a" width="48" height="48" alt="Album artwork for drivers license" /></a></td><td><a href="https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH">drivers license</a><br>Olivia Rodrigo</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"><img src="https://i.scdn.co/image/ab67616d00004851a91c10fe9472d9bd89802e5a" width="48" height="48" alt="Album artwork for traitor" /></a></td><td><a href="https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT">traitor</a><br>Olivia Rodrigo</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/6jfiwkcwt8iYCdkbLukxeI"><img src="https://i.scdn.co/image/ab67616d000048516949b83f85d782b21ce70583" width="48" height="48" alt="Album artwork for maggots for brains" /></a></td><td><a href="https://open.spotify.com/track/6jfiwkcwt8iYCdkbLukxeI">maggots for brains</a><br>Olivia Rodrigo</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"><img src="https://i.scdn.co/image/ab67616d00004851f76f8deeba5370c98ad38f1c" width="48" height="48" alt="Album artwork for Chemical" /></a></td><td><a href="https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu">Chemical</a><br>Post Malone</td></tr>
+<tr><td><a href="https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH"><img src="https://i.scdn.co/image/ab67616d000048515e145eb24e282b9554501a27" width="64" height="64" alt="Album artwork for Out of My League" /></a></td><td><a href="https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH">Out of My League</a><br>Fitz and The Tantrums</td></tr>
 </table>
 <!-- SPOTIFY:END -->
