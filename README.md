@@ -113,6 +113,10 @@
 ### Listening To
 
 <table>
-<tr><td><a href="https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"><img src="https://i.scdn.co/image/ab67616d000048519a9b1cc067e4460da04adce2" width="64" height="64" alt="Album artwork for Thunderstruck" /></a></td><td><a href="https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj">Thunderstruck</a><br>AC/DC</td></tr>
+<tr><td>01</td><td><a href="https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc"><img src="https://i.scdn.co/image/ab67616d00004851f9f27162ab1ed45b8d7a7e98" width="48" height="48" alt="Album artwork for Disturbia" /></a></td><td><a href="https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc">Disturbia</a><br>Rihanna</td></tr>
+<tr><td>02</td><td><a href="https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3"><img src="https://i.scdn.co/image/ab67616d0000485115785fa4f22f8c50902b3a42" width="48" height="48" alt="Album artwork for Wild Ones (feat. Sia)" /></a></td><td><a href="https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3">Wild Ones (feat. Sia)</a><br>Flo Rida, Sia</td></tr>
+<tr><td>03</td><td><a href="https://open.spotify.com/track/5AyL2kgLtTWEu3qO3B9SqK"><img src="https://i.scdn.co/image/ab67616d00004851fc7cbacf9d506c92aa7d7720" width="48" height="48" alt="Album artwork for Like A G6" /></a></td><td><a href="https://open.spotify.com/track/5AyL2kgLtTWEu3qO3B9SqK">Like A G6</a><br>Far East Movement, The Cataracs, DEV</td></tr>
+<tr><td>04</td><td><a href="https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c"><img src="https://i.scdn.co/image/ab67616d00004851941dd3b3343d9cb9329d37bf" width="48" height="48" alt="Album artwork for Clarity" /></a></td><td><a href="https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c">Clarity</a><br>Zedd, Foxes</td></tr>
+<tr><td>05</td><td><a href="https://open.spotify.com/track/0IsIY8pfu1yaGkPUD7pkDx"><img src="https://i.scdn.co/image/ab67616d000048518ac99f88ebc09b1f1637dc00" width="48" height="48" alt="Album artwork for Guess featuring billie eilish" /></a></td><td><a href="https://open.spotify.com/track/0IsIY8pfu1yaGkPUD7pkDx">Guess featuring billie eilish</a><br>Charli xcx, Billie Eilish</td></tr>
 </table>
 <!-- SPOTIFY:END -->
