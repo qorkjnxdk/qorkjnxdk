@@ -113,6 +113,10 @@
 ### Listening To
 
 <table>
-<tr><td><a href="https://open.spotify.com/track/2NniAhAtkRACaMeYt48xlD"><img src="https://i.scdn.co/image/ab67616d00004851bde344cc54eedc35050f4c61" width="64" height="64" alt="Album artwork for 50 Ways to Say Goodbye" /></a></td><td><a href="https://open.spotify.com/track/2NniAhAtkRACaMeYt48xlD">50 Ways to Say Goodbye</a><br>Train</td></tr>
+<tr><td>01</td><td><a href="https://open.spotify.com/track/3GQnWBLRh9GiaP34RlbTbK"><img src="https://i.scdn.co/image/ab67616d00004851acba4cdfd13828b5dc982249" width="48" height="48" alt="Album artwork for Monaco" /></a></td><td><a href="https://open.spotify.com/track/3GQnWBLRh9GiaP34RlbTbK">Monaco</a><br>MKTO</td></tr>
+<tr><td>02</td><td><a href="https://open.spotify.com/track/6tWkTeLF2WmjTA1cyS2QEp"><img src="https://i.scdn.co/image/ab67616d00004851855cda68658945a764dfb01d" width="48" height="48" alt="Album artwork for The Man Who Never Lied" /></a></td><td><a href="https://open.spotify.com/track/6tWkTeLF2WmjTA1cyS2QEp">The Man Who Never Lied</a><br>Maroon 5</td></tr>
+<tr><td>03</td><td><a href="https://open.spotify.com/track/5qII2n90lVdPDcgXEEVHNy"><img src="https://i.scdn.co/image/ab67616d0000485192f2d790c6a97b195f66d51e" width="48" height="48" alt="Album artwork for Sunday Morning" /></a></td><td><a href="https://open.spotify.com/track/5qII2n90lVdPDcgXEEVHNy">Sunday Morning</a><br>Maroon 5</td></tr>
+<tr><td>04</td><td><a href="https://open.spotify.com/track/5HQVUIKwCEXpe7JIHyY734"><img src="https://i.scdn.co/image/ab67616d000048518596df2f2646ab9aba464c30" width="48" height="48" alt="Album artwork for Young, Wild &amp; Free (feat. Bruno Mars)" /></a></td><td><a href="https://open.spotify.com/track/5HQVUIKwCEXpe7JIHyY734">Young, Wild &amp; Free (feat. Bruno Mars)</a><br>Snoop Dogg, Wiz Khalifa, Bruno Mars</td></tr>
+<tr><td>05</td><td><a href="https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"><img src="https://i.scdn.co/image/ab67616d000048517039c1c841fc3dfa2ad8a0d8" width="48" height="48" alt="Album artwork for Just the Way You Are" /></a></td><td><a href="https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ">Just the Way You Are</a><br>Bruno Mars</td></tr>
 </table>
 <!-- SPOTIFY:END -->
