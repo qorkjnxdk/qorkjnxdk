@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"><img src="https://i.scdn.co/image/ab67616d0000485191de4cb28d9066225b55e603" width="48" height="48" alt="Album artwork for Doja" /></a></td><td><a href="https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i">Doja</a><br>Central Cee</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/70TGNwQDvF5b6GQWlYPr8p"><img src="https://i.scdn.co/image/ab67616d0000485158513cbc1bba4cd4c5f472ce" width="48" height="48" alt="Album artwork for BAND4BAND (feat. Lil Baby)" /></a></td><td><a href="https://open.spotify.com/track/70TGNwQDvF5b6GQWlYPr8p">BAND4BAND (feat. Lil Baby)</a><br>Central Cee, Lil Baby</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/6NYbDTmstd7JSUWl2hVBqR"><img src="https://i.scdn.co/image/ab67616d00004851dd9f1f94f2f9a10310a3d525" width="48" height="48" alt="Album artwork for Sprinter" /></a></td><td><a href="https://open.spotify.com/track/6NYbDTmstd7JSUWl2hVBqR">Sprinter</a><br>Dave, Central Cee</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/72XWsiLW8q2g8Lv0a010ha"><img src="https://i.scdn.co/image/ab67616d000048515511096958f5771270fbf716" width="48" height="48" alt="Album artwork for The Great Escape" /></a></td><td><a href="https://open.spotify.com/track/72XWsiLW8q2g8Lv0a010ha">The Great Escape</a><br>BOYS LIKE GIRLS</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/7i9763l5SSfOnqZ35VOcfy"><img src="https://i.scdn.co/image/ab67616d000048512df0d98a423025032d0db1f7" width="48" height="48" alt="Album artwork for Heavydirtysoul" /></a></td><td><a href="https://open.spotify.com/track/7i9763l5SSfOnqZ35VOcfy">Heavydirtysoul</a><br>Twenty One Pilots</td></tr>
+<tr><td><a href="https://open.spotify.com/track/2NniAhAtkRACaMeYt48xlD"><img src="https://i.scdn.co/image/ab67616d00004851bde344cc54eedc35050f4c61" width="64" height="64" alt="Album artwork for 50 Ways to Say Goodbye" /></a></td><td><a href="https://open.spotify.com/track/2NniAhAtkRACaMeYt48xlD">50 Ways to Say Goodbye</a><br>Train</td></tr>
 </table>
 <!-- SPOTIFY:END -->
