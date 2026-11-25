@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/1r1fPuhj9H4VdXr7OK6FL5"><img src="https://i.scdn.co/image/ab67616d00004851987fb4c5ec8790e9f637a4a4" width="48" height="48" alt="Album artwork for CASTLE OF GLASS" /></a></td><td><a href="https://open.spotify.com/track/1r1fPuhj9H4VdXr7OK6FL5">CASTLE OF GLASS</a><br>Linkin Park</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/0OYcEfskah1egYHjYRvbg1"><img src="https://i.scdn.co/image/ab67616d000048516e996745f2c7b8036abef213" width="48" height="48" alt="Album artwork for Shadow of the Day" /></a></td><td><a href="https://open.spotify.com/track/0OYcEfskah1egYHjYRvbg1">Shadow of the Day</a><br>Linkin Park</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/1fLlRApgzxWweF1JTf8yM5"><img src="https://i.scdn.co/image/ab67616d000048516e996745f2c7b8036abef213" width="48" height="48" alt="Album artwork for Given Up" /></a></td><td><a href="https://open.spotify.com/track/1fLlRApgzxWweF1JTf8yM5">Given Up</a><br>Linkin Park</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/5rAxhWcgFng3s570sGO2F8"><img src="https://i.scdn.co/image/ab67616d00004851e2f039481babe23658fc719a" width="48" height="48" alt="Album artwork for A Place for My Head" /></a></td><td><a href="https://open.spotify.com/track/5rAxhWcgFng3s570sGO2F8">A Place for My Head</a><br>Linkin Park</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ"><img src="https://i.scdn.co/image/ab67616d00004851eb3c078694b007169dab4a4f" width="48" height="48" alt="Album artwork for Am I Wrong" /></a></td><td><a href="https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ">Am I Wrong</a><br>Nico &amp; Vinz</td></tr>
+<tr><td><a href="https://open.spotify.com/track/3h4T9Bg8OVSUYa6danHeH5"><img src="https://i.scdn.co/image/ab67616d0000485137677af5b4f23fe9dc8a3c04" width="64" height="64" alt="Album artwork for Animals" /></a></td><td><a href="https://open.spotify.com/track/3h4T9Bg8OVSUYa6danHeH5">Animals</a><br>Maroon 5</td></tr>
 </table>
 <!-- SPOTIFY:END -->
