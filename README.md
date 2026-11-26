@@ -113,6 +113,10 @@
 ### Listening To
 
 <table>
-<tr><td><a href="https://open.spotify.com/track/3h4T9Bg8OVSUYa6danHeH5"><img src="https://i.scdn.co/image/ab67616d0000485137677af5b4f23fe9dc8a3c04" width="64" height="64" alt="Album artwork for Animals" /></a></td><td><a href="https://open.spotify.com/track/3h4T9Bg8OVSUYa6danHeH5">Animals</a><br>Maroon 5</td></tr>
+<tr><td>01</td><td><a href="https://open.spotify.com/track/4ypoimFPt0SuieiBFWXCqH"><img src="https://i.scdn.co/image/ab67616d00004851ad8d753d177c8ea780bb7aeb" width="48" height="48" alt="Album artwork for 好想愛這個世界啊" /></a></td><td><a href="https://open.spotify.com/track/4ypoimFPt0SuieiBFWXCqH">好想愛這個世界啊</a><br>Hua Chen Yu</td></tr>
+<tr><td>02</td><td><a href="https://open.spotify.com/track/6i2lPTXmSUsJ2x7NMzsLeG"><img src="https://i.scdn.co/image/ab67616d0000485147640696c3195304b6869319" width="48" height="48" alt="Album artwork for 你的酒馆对我打了烊" /></a></td><td><a href="https://open.spotify.com/track/6i2lPTXmSUsJ2x7NMzsLeG">你的酒馆对我打了烊</a><br>陈雪凝</td></tr>
+<tr><td>03</td><td><a href="https://open.spotify.com/track/0BVRfqRHpYnXnv9t5yp9ai"><img src="https://i.scdn.co/image/ab67616d000048517b3a433a9bf011f368e5fa52" width="48" height="48" alt="Album artwork for Reverse" /></a></td><td><a href="https://open.spotify.com/track/0BVRfqRHpYnXnv9t5yp9ai">Reverse</a><br>CORSAK, 马吟吟</td></tr>
+<tr><td>04</td><td><a href="https://open.spotify.com/track/6yh3aP8HuImur7v8p1P8fz"><img src="https://i.scdn.co/image/ab67616d00004851e82c5ef367a634205161cb93" width="48" height="48" alt="Album artwork for 起風了 (電視劇《加油, 你是最棒的》主題曲)" /></a></td><td><a href="https://open.spotify.com/track/6yh3aP8HuImur7v8p1P8fz">起風了 (電視劇《加油, 你是最棒的》主題曲)</a><br>吳青峰</td></tr>
+<tr><td>05</td><td><a href="https://open.spotify.com/track/4GKpv9f2Rqa9rThTJVivSM"><img src="https://i.scdn.co/image/ab67616d000048511da729c58a0de2893db976cb" width="48" height="48" alt="Album artwork for 聽媽媽的話" /></a></td><td><a href="https://open.spotify.com/track/4GKpv9f2Rqa9rThTJVivSM">聽媽媽的話</a><br>Jay Chou</td></tr>
 </table>
 <!-- SPOTIFY:END -->
