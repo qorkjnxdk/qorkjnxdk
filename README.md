@@ -113,6 +113,10 @@
 ### Listening To
 
 <table>
-<tr><td><a href="https://open.spotify.com/track/2P4OICZRVAQcYAV2JReRfj"><img src="https://i.scdn.co/image/ab67616d000048515393c5d3cac806092a9bc468" width="64" height="64" alt="Album artwork for Waiting For Love" /></a></td><td><a href="https://open.spotify.com/track/2P4OICZRVAQcYAV2JReRfj">Waiting For Love</a><br>Avicii</td></tr>
+<tr><td>01</td><td><a href="https://open.spotify.com/track/2P4OICZRVAQcYAV2JReRfj"><img src="https://i.scdn.co/image/ab67616d000048515393c5d3cac806092a9bc468" width="48" height="48" alt="Album artwork for Waiting For Love" /></a></td><td><a href="https://open.spotify.com/track/2P4OICZRVAQcYAV2JReRfj">Waiting For Love</a><br>Avicii</td></tr>
+<tr><td>02</td><td><a href="https://open.spotify.com/track/3UN6cIn3VIyg0z1LCuFSum"><img src="https://i.scdn.co/image/ab67616d0000485163bf1cd36632031eb3081cb0" width="48" height="48" alt="Album artwork for Without You (feat. Usher)" /></a></td><td><a href="https://open.spotify.com/track/3UN6cIn3VIyg0z1LCuFSum">Without You (feat. Usher)</a><br>David Guetta, USHER</td></tr>
+<tr><td>03</td><td><a href="https://open.spotify.com/track/3eR23VReFzcdmS7TYCrhCe"><img src="https://i.scdn.co/image/ab67616d0000485141f289940f2e6a0d51988d77" width="48" height="48" alt="Album artwork for It Ain&#x27;t Me (with Selena Gomez)" /></a></td><td><a href="https://open.spotify.com/track/3eR23VReFzcdmS7TYCrhCe">It Ain&#x27;t Me (with Selena Gomez)</a><br>Kygo, Selena Gomez</td></tr>
+<tr><td>04</td><td><a href="https://open.spotify.com/track/0oF9jpn0n8afMpbHKgRd6J"><img src="https://i.scdn.co/image/ab67616d00004851d9b914089ee1525387783989" width="48" height="48" alt="Album artwork for I Ain&#x27;t Worried" /></a></td><td><a href="https://open.spotify.com/track/0oF9jpn0n8afMpbHKgRd6J">I Ain&#x27;t Worried</a><br>OneRepublic</td></tr>
+<tr><td>05</td><td><a href="https://open.spotify.com/track/3ScJy88F8KqGDfWu8XJhHx"><img src="https://i.scdn.co/image/ab67616d000048516f91180b662ca15ad2fb88f0" width="48" height="48" alt="Album artwork for If I Lose Myself - Alesso vs OneRepublic" /></a></td><td><a href="https://open.spotify.com/track/3ScJy88F8KqGDfWu8XJhHx">If I Lose Myself - Alesso vs OneRepublic</a><br>OneRepublic, Alesso</td></tr>
 </table>
 <!-- SPOTIFY:END -->
