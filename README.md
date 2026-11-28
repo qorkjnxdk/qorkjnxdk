@@ -113,10 +113,6 @@
 ### Listening To
 
 <table>
-<tr><td>01</td><td><a href="https://open.spotify.com/track/7jMHa752w5Wvpe3PzC1zJD"><img src="https://i.scdn.co/image/ab67616d000048516823e3a4f0a685140701fcf2" width="48" height="48" alt="Album artwork for Secrets - 2026 Remastered" /></a></td><td><a href="https://open.spotify.com/track/7jMHa752w5Wvpe3PzC1zJD">Secrets - 2026 Remastered</a><br>OneRepublic</td></tr>
-<tr><td>02</td><td><a href="https://open.spotify.com/track/2QavhS9CoTWCNC9pIOPsF2"><img src="https://i.scdn.co/image/ab67616d00004851744436cc55a9d6ff853ee1d8" width="48" height="48" alt="Album artwork for Ain&#x27;t in LA - TikTok Version" /></a></td><td><a href="https://open.spotify.com/track/2QavhS9CoTWCNC9pIOPsF2">Ain&#x27;t in LA - TikTok Version</a><br>ext3nsion, S3B4</td></tr>
-<tr><td>03</td><td><a href="https://open.spotify.com/track/2NlTOhsAamXOaZciOXbITb"><img src="https://i.scdn.co/image/ab67616d00004851deae7d931928fc1543e70203" width="48" height="48" alt="Album artwork for Cold (feat. Future)" /></a></td><td><a href="https://open.spotify.com/track/2NlTOhsAamXOaZciOXbITb">Cold (feat. Future)</a><br>Maroon 5, Future</td></tr>
-<tr><td>04</td><td><a href="https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8"><img src="https://i.scdn.co/image/ab67616d000048511db27fa11dbafa67857da8f3" width="48" height="48" alt="Album artwork for I Took A Pill In Ibiza - Seeb Remix" /></a></td><td><a href="https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8">I Took A Pill In Ibiza - Seeb Remix</a><br>Mike Posner, Seeb</td></tr>
-<tr><td>05</td><td><a href="https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"><img src="https://i.scdn.co/image/ab67616d0000485141aa6776dc15fbd71a2b4557" width="48" height="48" alt="Album artwork for Youngblood" /></a></td><td><a href="https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE">Youngblood</a><br>5 Seconds of Summer</td></tr>
+<tr><td><a href="https://open.spotify.com/track/2P4OICZRVAQcYAV2JReRfj"><img src="https://i.scdn.co/image/ab67616d000048515393c5d3cac806092a9bc468" width="64" height="64" alt="Album artwork for Waiting For Love" /></a></td><td><a href="https://open.spotify.com/track/2P4OICZRVAQcYAV2JReRfj">Waiting For Love</a><br>Avicii</td></tr>
 </table>
 <!-- SPOTIFY:END -->
